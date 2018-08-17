@@ -1,0 +1,1111 @@
+CdId;Formula;Description;Item tag;EWA;Profilage;LStup;Expected m/z ;Min m/z (-5 ppm);Max m/z (+ 5 ppm)
+787;C3H6O;Acetone;Solvent;;x;;59.0491;59.05;59.05
+597;C4H8O;Butanone;Solvent;;x;;73.0648;73.06;73.07
+809;C4H10O;Diethyl ether;Solvent;;x;;75.0804;75.08;75.08
+799;C4H10O2;1,4-Butanediol;"(EWA; Other substances)";x;;;91.0754;91.07;91.08
+405;C5H9NO;1-Methylpyrrolidin-2-one;"(EWA; Other substances)";x;;;100.0757;100.08;100.08
+374;C6H15N;DMBA;"(EWA; Other substances)";x;;;102.1277;102.13;102.13
+686;C4H7O3;?-Hydroxybutyric acid (7611746400004);;;;x;104.0468;104.05;104.05
+159;CH7P3;p-CPP (7611746991021);;;;x;112.9833;112.98;112.98
+692;C7H17N;4-Methyl-2-aminohexane, Dimethylamylamine;"(EWA; Other substances)";x;;;116.1434;116.14;116.14
+606;C8H11N;Phenethylamine;"(EWA; Phenethylamines)";x;;;122.0964;122.10;122.10
+423;C8H11N;1-Phenethylamine;"(EWA; Phenethylamines)";x;;;122.0964;122.10;122.10
+797;C7H6O2;Benzoic acid;Product of cocaine hydrolysis;;x;;123.0441;123.04;123.04
+368;C6H9NS;2-Thiophen-2-yl-ethylamine;"(EWA; Phenethylamines)";x;;;128.0528;128.05;128.05
+747;C8H19N;Octodrine;"(EWA; Other substances)";x;;;130.1590;130.16;130.16
+1 001;C4H9N3O2;Creatine;Adulterant;;x;;132.0768;132.08;132.08
+569;C9H11N;2-Aminoindane (T.e 50);"(EWA; Phenethylamines)";x;;x;134.0964;134.10;134.10
+568;C9H11N;1-Aminoindane;"(EWA; Aminoindanes)";x;;;134.0964;134.10;134.10
+1 022;C9H13N;N-Methylphenethylamine;"(EWA; Phenethylamines)";x;;;136.1121;136.11;136.11
+607;C9H13N;2-Phenylpropanamine;"(EWA; Phenethylamines)";x;;;136.1121;136.11;136.11
+426;C9H13N;1-Phenyl-1-propanamine;"(EWA; Other substances)";x;;;136.1121;136.11;136.11
+421;C9H13N;Amphetamine (7611746118008);;;;x;136.1121;136.11;136.11
+90;C9H13N;Dextroamphetamine (7611746119005);;;;x;136.1121;136.11;136.11
+87;C9H13N;Levoamphetamine (7611746197003);;;;x;136.1121;136.11;136.11
+795;C7H9NO2;Deferiprone (7611746141006);;;;x;140.0706;140.07;140.07
+369;C7H11NS;Thiopropamine;"(EWA; Other substances)";x;;;142.0685;142.07;142.07
+378;C8H15NO;Hygrine;Cocain alkaloid;;x;;142.1226;142.12;142.12
+192;C8H17NO;Hygroline;Cocain alkaloid;;;;144.1383;144.14;144.14
+45;C7H9ClO;Ethchlorvynol (7611746183006);;;;x;145.0415;145.04;145.04
+1 021;C10H13N;N-Methyl-2-Aminoindane;"(EWA; Aminoindanes)";x;;;148.1121;148.11;148.11
+156;C9H8O2;Trans-Cinnamic Acid;Cocain impurity;;x;;149.0597;149.06;149.06
+155;C9H8O2;Trans-cinnamic Acid;Cocain impurity;;x;;149.0597;149.06;149.06
+96;C9H8O2;cis-cinnamic acid;Cocain impurity;;x;;149.0597;149.06;149.06
+91;C9H11NO;Cathinone (7611746134008);;;;x;150.0913;150.09;150.09
+1 023;C10H15N;Phenpromethamine;"(EWA; Phenethylamines)";x;;;150.1277;150.13;150.13
+1 020;C10H15N;N-Methyl-1-phenyl-propylamine;"(EWA; Phenethylamines)";x;;;150.1277;150.13;150.13
+969;C10H15N;N,N-Dimethylphenethylamine;"(EWA; Phenethylamines)";x;;;150.1277;150.13;150.13
+694;C10H15N;1-Methyl-3-phenylpropylamine;"(EWA; Other substances)";x;;;150.1277;150.13;150.13
+601;C10H15N;Phentermine (7611746215004);;;;x;150.1277;150.13;150.13
+367;C10H15N;4-Methylamphetamine (T.e 96);"(EWA; Phenethylamines)";x;;x;150.1277;150.13;150.13
+365;C10H15N;2-methylamphetamine;"(EWA; Phenethylamines)";x;;;150.1277;150.13;150.13
+93;C10H15N;Methamphetamine (7611746121008);;;;x;150.1277;150.13;150.13
+88;C10H15N;Levmetamfetamine (7611746290001);;;;x;150.1277;150.13;150.13
+945;C8H9NO2;Paracetamol;Adulterant;;x;;152.0706;152.07;152.07
+673;C9H13NO;4-Hydroxyamphetamine;"(EWA; Phenethylamines)";x;;;152.1070;152.11;152.11
+73;C9H13NO;Cathine (7611746173007/14);;;;x;152.1070;152.11;152.11
+59;C9H13NO;Cathine (7611746173007/14);;;;x;152.1070;152.11;152.11
+292;C9H12FN;4-FA (7611746991052);"(EWA; Phenethylamines)";x;;x;154.1027;154.10;154.10
+251;C9H12FN;3-Fluoroamphetamine (T.e. 13);"(EWA; Phenethylamines)";x;;x;154.1027;154.10;154.10
+223;C9H12FN;2-Fluoroamphetamine (T.e 12);"(EWA; Phenethylamines)";x;;x;154.1027;154.10;154.10
+1 017;C8H13NS;MPA (7611746965145);"(EWA; Other substances)";x;;x;156.0841;156.08;156.08
+855;C8H13NO2;Arecoline;"(EWA; Other substances)";x;;;156.1019;156.10;156.10
+728;C9H10N2O;Aminorex (7611746225003);;;;x;163.0866;163.09;163.09
+425;C10H14N2;1-Phenylpiperazine;"(EWA; Piperazines)";x;;;163.1230;163.12;163.12
+542;C9H9NO2;1-Phenyl-1,2-propanedione-2-oxime;"(EWA; Synthetic cathinones)";x;;;164.0706;164.07;164.07
+589;C10H13NO;alpha-Aminobutyrophenone;"(EWA; Synthetic cathinones)";x;;;164.1070;164.11;164.11
+588;C10H13NO;Nor-mephedrone;"(EWA; Synthetic cathinones)";x;;;164.1070;164.11;164.11
+553;C10H13NO;Ephedrone (7611746331001);;;;x;164.1070;164.11;164.11
+1 025;C11H17N;N-methyl-4-phenylbutan-2-amine;"(EWA; Other substances)";x;;;164.1434;164.14;164.14
+1 019;C11H17N;4-Methylmethamphetamine;"(EWA; Phenethylamines)";x;;;164.1434;164.14;164.14
+1 006;C11H17N;N-Ethylamphetamine (7611746186007);;;;x;164.1434;164.14;164.14
+967;C11H17N;N,N-Dimethylamphetamine;"(EWA; Phenethylamines)";x;;;164.1434;164.14;164.14
+826;C9H11NO2;Benzocaine;Adulterant;;x;;166.0863;166.09;166.09
+304;C10H15NO;PMA (7611746150008);;;;x;166.1226;166.12;166.12
+226;C10H15NO;2-Methoxyamphetamine;"(EWA; Phenethylamines)";x;;;166.1226;166.12;166.12
+586;C9H10FNO;4-Fluorocathinone;"(EWA; Synthetic cathinones)";x;;;168.0819;168.08;168.08
+1 058;C9H13NO2;(-)-Ecgonidine;Cocain alkaloid;;;;168.1019;168.10;168.10
+398;C9H13NO2;Ethinamate (7611746184003);;;;x;168.1019;168.10;168.10
+62;C9H13NO2;(-)-Ecgonidine;Cocain alkaloid;;;;168.1019;168.10;168.10
+294;C10H14FN;4-Fluoromethamphetamine (T.e. 16);"(EWA; Phenethylamines)";x;;x;168.1183;168.12;168.12
+249;C10H14FN;3-Fluoromethamphetamine (T.e 15);"(EWA; Phenethylamines)";x;;x;168.1183;168.12;168.12
+221;C10H14FN;2-Fluoromethamphetamine (T.e 14);"(EWA; Phenethylamines)";x;;x;168.1183;168.12;168.12
+551;C8H11NOS;2-(Methylamino)-1-(thiophen-2-yl)propan-1-one;"(EWA; Other substances)";x;;;170.0634;170.06;170.06
+271;C9H12ClN;4-Chloroamphetamine;"(EWA; Phenethylamines)";x;;;170.0731;170.07;170.07
+439;C11H14N2;N-Methyltryptamine;"(EWA; Tryptamines)";x;;;175.1230;175.12;175.12
+191;C11H14N2;2-(1H-indol-6-yl)-1-methyl-ethylamine;"(EWA; Other substances)";x;;;175.1230;175.12;175.12
+190;C11H14N2;5-IT (T.e 129);"(EWA; Phenethylamines)";x;;x;175.1230;175.12;175.12
+189;C11H14N2;alpha-Methyltryptamine (T.e 160);"(EWA; Tryptamines)";x;;x;175.1230;175.12;175.12
+357;C11H13NO;6-(2-Aminopropyl)benzofuran (T.e. 52);"(EWA; Phenethylamines)";x;;x;176.1070;176.11;176.11
+354;C11H13NO;5-(2-Aminopropyl)benzofuran;"(EWA; Phenethylamines)";x;;;176.1070;176.11;176.11
+349;C11H13NO;4-(2-Aminopropyl)benzofuran;"(EWA; Phenethylamines)";x;;;176.1070;176.11;176.11
+348;C11H13NO;2-(2-aminopropyl)benzofuran;"(EWA; Other substances)";x;;;176.1070;176.11;176.11
+682;C12H17N;4-Benzylpiperidine;"(EWA; Other substances)";x;;;176.1434;176.14;176.14
+422;C12H17N;1-Phenylcyclohexanamine;"(EWA; Other substances)";x;;;176.1434;176.14;176.14
+204;C12H17N;Indanylaminopropane (T.e 105);"(EWA; Phenethylamines)";x;;x;176.1434;176.14;176.14
+590;C9H8N2O2;Pemoline (7611746123002);;;;x;177.0659;177.06;177.07
+691;C10H12N2O;4-methylaminorex (7611746999379);;;;x;177.1022;177.10;177.10
+668;C10H12N2O;N-methyl aminorex derivative;"(EWA; Other substances)";x;;;177.1022;177.10;177.10
+625;C10H12N2O;4-Hydroxytryptamine;"(EWA; Tryptamines)";x;;;177.1022;177.10;177.10
+394;C11H16N2;Benzylpiperazine (7611746269007);"(EWA; Piperazines)";x;;x;177.1386;177.14;177.14
+366;C11H16N2;4-Methylphenylpiperazine;"(EWA; Piperazines)";x;;;177.1386;177.14;177.14
+364;C11H16N2;2-Methylphenylpiperazine;"(EWA; Piperazines)";x;;;177.1386;177.14;177.14
+361;C11H16N2;3-Methylphenylpiperazine;"(EWA; Piperazines)";x;;;177.1386;177.14;177.14
+744;C10H11NO2;5,6-Methylenedioxy-2-aminoindane;"(EWA; Aminoindanes)";x;;;178.0863;178.09;178.09
+726;C11H15NO;Iso-phenmetrazine;"(EWA; Other substances)";x;;;178.1226;178.12;178.12
+725;C11H15NO;5-Methoxy-6-methyl-2-aminoindane;"(EWA; Aminoindanes)";x;;;178.1226;178.12;178.12
+665;C11H15NO;Phenmetrazine (7611746125006);;;;x;178.1226;178.12;178.12
+554;C11H15NO;Buphedrone (T.e 18);"(EWA; Synthetic cathinones)";x;;x;178.1226;178.12;178.12
+548;C11H15NO;2-Methyl-N-methylcathinone;"(EWA; Synthetic cathinones)";x;;;178.1226;178.12;178.12
+547;C11H15NO;3-methylmethcathinone;"(EWA; Synthetic cathinones)";x;;;178.1226;178.12;178.12
+546;C11H15NO;Mephedrone (7611746991007);"(EWA; Synthetic cathinones)";x;;x;178.1226;178.12;178.12
+540;C11H15NO;Ethcathinone (T.e 17);"(EWA; Synthetic cathinones)";x;;x;178.1226;178.12;178.12
+523;C11H15NO;Dimethylcathinone;"(EWA; Synthetic cathinones)";x;;;178.1226;178.12;178.12
+359;C11H15NO;Iso-ethcathinone;"(EWA; Synthetic cathinones)";x;;;178.1226;178.12;178.12
+209;C11H15NO;6-(2-Aminopropyl)-2,3-dihydrobenzofuran (T.e 100);"(EWA; Phenethylamines)";x;;x;178.1226;178.12;178.12
+208;C11H15NO;5-(2-Aminopropyl)-2,3-dihydrobenzofuran;"(EWA; Phenethylamines)";x;;;178.1226;178.12;178.12
+1 007;C12H19N;N-Ethyl-1-phenyl-butan-2-amine;"(EWA; Phenethylamines)";x;;;178.1590;178.16;178.16
+919;C12H19N;N-Propylamphetamine;"(EWA; Phenethylamines)";x;;;178.1590;178.16;178.16
+681;C10H13NO2;4-amino-3-phenyl-butyric acid;"(EWA; Phenethylamines)";x;;;180.1019;180.10;180.10
+184;C10H13NO2;MDA (7611746459002);;;;x;180.1019;180.10;180.10
+46;C10H13NO2;Phenacetine;Adulterant;;x;;180.1019;180.10;180.10
+305;C11H17NO;PMMA (7611746150015);"(EWA; Phenethylamines)";x;;x;180.1383;180.14;180.14
+224;C11H17NO;2-Methoxymethamphetamine;"(EWA; Phenethylamines)";x;;;180.1383;180.14;180.14
+642;C12H21N;Memantine;"(EWA; Other substances)";x;;;180.1747;180.17;180.18
+1 057;C6H12O6;Inositol;Diluent;;x;;181.0707;181.07;181.07
+804;C6H12O6;D-(+)-Glucose;Diluent;;x;;181.0707;181.07;181.07
+802;C6H12O6;Fructose;Diluent;;x;;181.0707;181.07;181.07
+295;C10H13FN2;1-(4-Fluorophenyl)piperazine;"(EWA; Piperazines)";x;;;181.1136;181.11;181.11
+250;C10H13FN2;1-(3-Fluorophenyl)piperazine;"(EWA; Piperazines)";x;;;181.1136;181.11;181.11
+222;C10H13FN2;1-(2-Fluorophenyl)piperazine;"(EWA; Piperazines)";x;;;181.1136;181.11;181.11
+285;C10H12FNO;4-Fluoromethcathinone (T.e 23);"(EWA; Synthetic cathinones)";x;;x;182.0976;182.10;182.10
+248;C10H12FNO;3-Fluoromethcathinone (T.e. 22);"(EWA; Synthetic cathinones)";x;;x;182.0976;182.10;182.10
+247;C10H12FNO;1-(3-fluorophenyl)-1-(methylamino)propan-2-one;"(EWA; Synthetic cathinones)";x;;;182.0976;182.10;182.10
+220;C10H12FNO;2-Fluoromethcathinone (T.e 21);"(EWA; Synthetic cathinones)";x;;x;182.0976;182.10;182.10
+382;C10H15NS;4-MTA (7611746354000);;;;x;182.0998;182.10;182.10
+227;C10H15NS;3-Methylthioamphetamine;"(EWA; Phenethylamines)";x;;;182.0998;182.10;182.10
+196;C10H15NS;2-Methylthioamphetamine;"(EWA; Phenethylamines)";x;;;182.0998;182.10;182.10
+847;C10H15NO2;Methylecgonidine;Cocain alkaloid;;;;182.1176;182.12;182.12
+455;C10H15NO2;2C-H;"(EWA; Phenethylamines)";x;;;182.1176;182.12;182.12
+807;C6H14O6;Mannitol;Diluent;;x;;183.0863;183.09;183.09
+803;C6H14O6;Sorbitol;Diluent;;x;;183.0863;183.09;183.09
+269;C10H14ClN;para-Chloromethamphetamine;"(EWA; Phenethylamines)";x;;;184.0888;184.09;184.09
+284;C10H14FNO;4-fluoroephedrine;"(EWA; Phenethylamines)";x;;;184.1132;184.11;184.11
+632;C10H17NO2;Methyprylon (7611746206002);;;;x;184.1332;184.13;184.13
+708;C8H12N2O3;Barbital (7611746168003);;;;x;185.0921;185.09;185.09
+848;C9H15NO3;Norecgonine methyl ester;Cocain alkaloid;;x;;186.1125;186.11;186.11
+680;C9H15NO3;Ethylmethylthiambutene (7611746042006);;;;x;186.1125;186.11;186.11
+61;C9H15NO3;Ecgonine (7611746041009);"Cocain alkaloid; Cocaine impurity";;x;x;186.1125;186.11;186.11
+645;C12H16N2;Fenproporex (7611746188001);;;;x;189.1386;189.14;189.14
+438;C12H16N2;DMT (7611746297000);;;;x;189.1386;189.14;189.14
+187;C12H16N2;Etryptamine (7611746227007);;;;x;189.1386;189.14;189.14
+436;C12H15NO;Mephtetramine;"(EWA; Other substances)";x;;;190.1226;190.12;190.12
+356;C12H15NO;6-MAPB (T.e 122);"(EWA; Phenethylamines)";x;;x;190.1226;190.12;190.12
+353;C12H15NO;5-MAPB (T.e. 121);"(EWA; Phenethylamines)";x;;x;190.1226;190.12;190.12
+347;C12H15NO;2-(N-methyl-2-aminopropyl)benzofuran (T.e 169);"(EWA; Other substances)";x;;x;190.1226;190.12;190.12
+203;C13H19N;5-MAPDI;"(EWA; Phenethylamines)";x;;;190.1590;190.16;190.16
+690;C11H14N2O;4,4'-DMAR (7611746958116);"(EWA; Other substances)";x;;x;191.1179;191.12;191.12
+639;C11H14N2O;3,4-dimethyl-5-phenyl-1,3-oxazolidin-2-imine;"(EWA; Other substances)";x;;;191.1179;191.12;191.12
+507;C11H14N2O;5-methoxytryptamine;"(EWA; Tryptamines)";x;;;191.1179;191.12;191.12
+391;C12H18N2;1-Benzyl-4-methylpiperazine;"(EWA; Piperazines)";x;;;191.1543;191.15;191.16
+253;C12H18N2;1-(3-Methylbenzyl)piperazine;"(EWA; Piperazines)";x;;;191.1543;191.15;191.16
+1 026;C11H13NO2;5,6-Methylenedioxy-N-methyl-2-aminoindane;"(EWA; Aminoindanes)";x;;;192.1019;192.10;192.10
+709;C12H17NO;5,5-dimethyl-2-phenylmorpholine;"(EWA; Other substances)";x;;;192.1383;192.14;192.14
+664;C12H17NO;4-methylphenmetrazine;"(EWA; Other substances)";x;;;192.1383;192.14;192.14
+663;C12H17NO;3-Methylphenmetrazine;"(EWA; Other substances)";x;;;192.1383;192.14;192.14
+655;C12H17NO;Phenetrazine (T.e 211);"(EWA; Other substances)";x;;x;192.1383;192.14;192.14
+644;C12H17NO;3,6-dimethyl-2-phenyl-morpholine;"(EWA; Other substances)";x;;;192.1383;192.14;192.14
+641;C12H17NO;3,5-dimethyl-2-phenylmorpholine;"(EWA; Other substances)";x;;;192.1383;192.14;192.14
+638;C12H17NO;Phendimetrazine (7611746205012);;;;x;192.1383;192.14;192.14
+552;C12H17NO;Pentedrone (7611746958079);"(EWA; Synthetic cathinones)";x;;x;192.1383;192.14;192.14
+549;C12H17NO;4-Methylbuphedrone (T. e 26);"(EWA; Synthetic cathinones)";x;;x;192.1383;192.14;192.14
+537;C12H17NO;N-Ethylbuphedrone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+534;C12H17NO;2-Methylethcathinone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+533;C12H17NO;3-Methylethcathinone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+532;C12H17NO;4-MEC (7611746958093);"(EWA; Synthetic cathinones)";x;;x;192.1383;192.14;192.14
+522;C12H17NO;4-methyl-N,N-dimethylcathinone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+414;C12H17NO;Propylcathinone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+360;C12H17NO;Iso-Pentedrone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+277;C12H17NO;4-Ethylmethcathinone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+246;C12H17NO;3-ethylmethcathinone;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+236;C12H17NO;3,4-Dimethylmethcathinone (T.e 20);"(EWA; Synthetic cathinones)";x;;x;192.1383;192.14;192.14
+212;C12H17NO;1-(2,4-dimethylphenyl)-2-(methylamino)propan-1-one;"(EWA; Synthetic cathinones)";x;;;192.1383;192.14;192.14
+207;C12H17NO;5-MAPDB;"(EWA; Phenethylamines)";x;;;192.1383;192.14;192.14
+306;C11H16N2O;1-(4-Methoxyphenyl)piperazine;"(EWA; Piperazines)";x;;;193.1335;193.13;193.13
+225;C11H16N2O;1-(2-Methoxyphenyl)piperazine;"(EWA; Piperazines)";x;;;193.1335;193.13;193.13
+587;C10H11NO3;3,4-Methylenedioxycathinone;"(EWA; Synthetic cathinones)";x;;;194.0812;194.08;194.08
+345;C11H15NO2;M-alpha;"(EWA; Phenethylamines)";x;;;194.1176;194.12;194.12
+343;C11H15NO2;3,4-methylenedioxyphentermine;"(EWA; Phenethylamines)";x;;;194.1176;194.12;194.12
+298;C11H15NO2;4-Methoxy-N-methcathinone;"(EWA; Synthetic cathinones)";x;;;194.1176;194.12;194.12
+252;C11H15NO2;3-Methoxymethcathinone;"(EWA; Synthetic cathinones)";x;;;194.1176;194.12;194.12
+186;C11H15NO2;MDMA (7611746148005);;;;x;194.1176;194.12;194.12
+1 004;C12H19NO;Para-Methoxyethylamphetamine;"(EWA; Phenethylamines)";x;;;194.1539;194.15;194.15
+245;C12H19NO;3-Ethoxymethamphetamine;"(EWA; Phenethylamines)";x;;;194.1539;194.15;194.15
+745;C10H10O4;Meconine (MEC);Heroin alkaloid;;x;;195.0652;195.06;195.07
+371;C8H10N4O2;Caffeine;Adulterant;;x;;195.0877;195.09;195.09
+981;C10H13NO3;UNII:SJE1T2B1A7 (7611746142003);"(EWA; Phenethylamines)";x;;x;196.0968;196.10;196.10
+530;C11H14FNO;4-fluoroethcathinone;"(EWA; Synthetic cathinones)";x;;;196.1132;196.11;196.11
+500;C11H14FNO;4-fluorophenmetrazine;"(EWA; Other substances)";x;;;196.1132;196.11;196.11
+473;C11H14FNO;3F-Phenmetrazine;"(EWA; Other substances)";x;;;196.1132;196.11;196.11
+280;C11H14FNO;3-methylflephedrone;"(EWA; Synthetic cathinones)";x;;;196.1132;196.11;196.11
+469;C11H17NO2;3,4-Dimethoxyamphetamine;"(EWA; Phenethylamines)";x;;;196.1332;196.13;196.13
+468;C11H17NO2;2,4-Dimethoxyamphetamine;"(EWA; Phenethylamines)";x;;;196.1332;196.13;196.13
+448;C11H17NO2;2C-D (T.e 9);"(EWA; Phenethylamines)";x;;x;196.1332;196.13;196.13
+217;C11H17NO2;DMA (7611746136002);;;;x;196.1332;196.13;196.13
+1 035;C10H13ClN2;m-CPP (7611746991038);"(EWA; Piperazines)";x;;x;197.0840;197.08;197.08
+270;C10H13ClN2;1-(4-Chlorophenyl)piperazine;"(EWA; Piperazines)";x;;;197.0840;197.08;197.08
+219;C10H13ClN2;oCPP (7611746991045);;;;x;197.0840;197.08;197.08
+266;C10H12ClNO;4-chloromethcathinone;"(EWA; Synthetic cathinones)";x;;;198.0680;198.07;198.07
+241;C10H12ClNO;3-chloromethcathinone;"(EWA; Synthetic cathinones)";x;;;198.0680;198.07;198.07
+499;C10H14FNO2;2C-F;"(EWA; Phenethylamines)";x;;;200.1081;200.11;200.11
+870;C10H17NO3;Pseudoecgonine methyl ester;Cocain impurity;;x;;200.1281;200.13;200.13
+845;C10H17NO3;(-)-Ecgonine methyl ester;Cocain impurity;;x;;200.1281;200.13;200.13
+1 018;C14H17N;Methamnetamine (T.e 209);"(EWA; Phenethylamines)";x;;x;200.1434;200.14;200.14
+658;C7H4O7;Meconic acid;Heroin alkaloid;;x;;201.0030;201.00;201.00
+966;C13H16N2;Ru-28306;"(EWA; Other substances)";x;;;201.1386;201.14;201.14
+1 024;C14H19N;Camfetamine (T.e 89);"(EWA; Phenethylamines)";x;;x;202.1590;202.16;202.16
+1 009;C13H18N2;N-methyl-N-ethyltryptamine;"(EWA; Tryptamines)";x;;;203.1543;203.15;203.16
+188;C13H18N2;alpha-N,N-trimethyltryptamine;"(EWA; Tryptamines)";x;;;203.1543;203.15;203.16
+1 099;C13H17NO;4-EAPB;"(EWA; Phenethylamines)";x;;;204.1383;204.14;204.14
+1 098;C13H17NO;1-(1-benzofuran-2-yl)-N-metylbutan-2-amine;"(EWA; Other substances)";x;;;204.1383;204.14;204.14
+556;C13H17NO;Deschloroketamine (T.e 210);"(EWA; Phencyclidine-type substances)";x;;x;204.1383;204.14;204.14
+420;C13H17NO;alpha-pyrrolidinopropiophenone;"(EWA; Synthetic cathinones)";x;;;204.1383;204.14;204.14
+355;C13H17NO;6-EAPB (T.e 124);"(EWA; Phenethylamines)";x;;x;204.1383;204.14;204.14
+352;C13H17NO;5-MBPB;"(EWA; Phenethylamines)";x;;;204.1383;204.14;204.14
+351;C13H17NO;5-EAPB (T. e 123);"(EWA; Phenethylamines)";x;;x;204.1383;204.14;204.14
+346;C13H17NO;1-(1-Benzofuran-2-yl)-N-ethylpropan-2-amine;"(EWA; Other substances)";x;;;204.1383;204.14;204.14
+1 008;C14H21N;PCE (7611746140009);;;;x;204.1747;204.17;204.18
+152;C11H12N2S;Levamisole;Adulterant;;x;;205.0794;205.08;205.08
+648;C12H16N2O;Psilocin (7611746151005);;;;x;205.1335;205.13;205.13
+617;C12H16N2O;5-Hydroxy-N,N-dimethyltryptamine;"(EWA; Tryptamines)";x;;;205.1335;205.13;205.13
+319;C12H16N2O;5-Methoxy-alpha-methyltryptamine;"(EWA; Tryptamines)";x;;;205.1335;205.13;205.13
+498;C12H15NO2;2C-YN;"(EWA; Phenethylamines)";x;;;206.1176;206.12;206.12
+683;C13H19NO;Phenmetetrazine;"(EWA; Other substances)";x;;;206.1539;206.15;206.15
+637;C13H19NO;4-methylphendimetrazine;"(EWA; Other substances)";x;;;206.1539;206.15;206.15
+555;C13H19NO;Hexedrone, ?-propylmethcathinone;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+550;C13H19NO;1-(4-methylphenyl)-2-methylamino-pentan-1-one;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+545;C13H19NO;2,4,5-Trimethylmethcathinone;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+539;C13H19NO;alpha-ethylaminopentiophenone;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+535;C13H19NO;1-(4-Methylphenyl)-2-ethylaminobutan-1-one;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+527;C13H19NO;4-Ethylethcathinone;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+526;C13H19NO;2-Ethyl-N-ethylcathinone;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+521;C13H19NO;1-(4-Methylphenyl)-2-dimethylaminobutan-1-one;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+518;C13H19NO;Amfepramone (7611746167006);;;;x;206.1539;206.15;206.15
+411;C13H19NO;1-phenethylpiperidin-4-ol;"(EWA; Other substances)";x;;;206.1539;206.15;206.15
+235;C13H19NO;3,4-Dimethylethcathinone;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+211;C13H19NO;1-(2,4-dimethylphenyl)-2-(ethylamino)propan-1-one;"(EWA; Synthetic cathinones)";x;;;206.1539;206.15;206.15
+424;C14H23N;Phenylpropylaminopentane;"(EWA; Phenethylamines)";x;;;206.1903;206.19;206.19
+183;C11H13NO3;Methylone (7611746990987);"(EWA; Synthetic cathinones)";x;;x;208.0968;208.10;208.10
+801;C12H17NO2;MBDB (7611746976806);"(EWA; Phenethylamines)";x;;x;208.1332;208.13;208.13
+662;C12H17NO2;Mexedrone (T.e 207);"(EWA; Synthetic cathinones)";x;;x;208.1332;208.13;208.13
+629;C12H17NO2;Heliomethylamine;"(EWA; Phenethylamines)";x;;;208.1332;208.13;208.13
+531;C12H17NO2;4-methoxy-N-ethylcathinone;"(EWA; Synthetic cathinones)";x;;;208.1332;208.13;208.13
+520;C12H17NO2;4-Methoxy-N,N-dimethylcathinone;"(EWA; Synthetic cathinones)";x;;;208.1332;208.13;208.13
+454;C12H17NO2;2C-V;"(EWA; Phenethylamines)";x;;;208.1332;208.13;208.13
+344;C12H17NO2;N,N-Dimethyl-MDA;"(EWA; Phenethylamines)";x;;;208.1332;208.13;208.13
+185;C12H17NO2;MDEA (7611746132004);;;;x;208.1332;208.13;208.13
+707;C10H12N2O3;Allobarbital (7611746164005);;;;x;209.0921;209.09;209.09
+323;C11H15NO3;MMDA (7611746145004);;;;x;210.1125;210.11;210.11
+654;C12H16FNO;3F-phenetrazine;"(EWA; Other substances)";x;;;210.1289;210.13;210.13
+528;C12H16FNO;4-fluoro-N-ethylbuphedrone;"(EWA; Synthetic cathinones)";x;;;210.1289;210.13;210.13
+283;C12H16FNO;1-(4-fluorophenyl)-2-(methylamino)pentan-1-one;"(EWA; Synthetic cathinones)";x;;;210.1289;210.13;210.13
+496;C12H19NO2;2C-E (T.e 8);"(EWA; Phenethylamines)";x;;x;210.1489;210.15;210.15
+467;C12H19NO2;3,4-Dimethoxymethamphetamine;"(EWA; Phenethylamines)";x;;;210.1489;210.15;210.15
+443;C12H19NO2;2C-G;"(EWA; Phenethylamines)";x;;;210.1489;210.15;210.15
+214;C12H19NO2;STP (7611746133001);;;;x;210.1489;210.15;210.15
+262;C11H14ClNO;4-chloroethcathinone;"(EWA; Synthetic cathinones)";x;;;212.0837;212.08;212.08
+261;C11H14ClNO;4-chloro-N,N-dimethylcathinone;"(EWA; Synthetic cathinones)";x;;;212.0837;212.08;212.08
+240;C11H14ClNO;3-chloroethcathinone;"(EWA; Synthetic cathinones)";x;;;212.0837;212.08;212.08
+652;C12H18ClN;Mefenorex (7611746203001);;;;x;212.1201;212.12;212.12
+465;C11H17NO3;Mescaline (7611746144007);;;;x;212.1281;212.13;212.13
+1 000;C15H17N;N-Benzyl-1-phenylethylamine;"(EWA; Phenethylamines)";x;;;212.1434;212.14;212.14
+777;C13H12N2O;7-MeO-1-Me-9H-pyrido[3,4-b]-indole;"(EWA; Tryptamines)";x;;;213.1022;213.10;213.10
+729;C10H16N2O3;Butabarbital (7611746231004);;;;x;213.1234;213.12;213.12
+715;C10H16N2O3;Butobarbital (7611746239000);;;;x;213.1234;213.12;213.12
+259;C9H12BrN;4-Bromoamphetamine (T.e. 112);"(EWA; Phenethylamines)";x;;x;214.0226;214.02;214.02
+946;C14H15NO;N-(4-methoxybenzyl)aniline;"(EWA; Other substances)";x;;;214.1226;214.12;214.12
+279;C11H16FNO2;2,5-Dimethoxy-4-fluoroamphetamine;"(EWA; Phenethylamines)";x;;;214.1238;214.12;214.12
+776;C13H14N2O;7-methoxy-1-methyl-4,9-dihydro-3H-pyrido[3,4-b]indole;"(EWA; Tryptamines)";x;;;215.1179;215.12;215.12
+922;C14H18N2;N-methyl-N-cyclopropyltryptamine;"(EWA; Tryptamines)";x;;;215.1543;215.15;215.16
+489;C10H14ClNO2;2C-C (T.e 60);"(EWA; Phenethylamines)";x;;x;216.0786;216.08;216.08
+1 011;C15H21N;Fencamfamine (7611746187004);;;;x;216.1747;216.17;216.18
+965;C14H20N2;2,N,N-trimethyltryptamine;"(EWA; Tryptamines)";x;;;217.1699;217.17;217.17
+961;C14H20N2;DET (7611746135005);;;;x;217.1699;217.17;217.17
+923;C14H20N2;N-Methyl-N-isopropyltryptamine;"(EWA; Tryptamines)";x;;;217.1699;217.17;217.17
+656;C13H15NO2;Glutethimide (7611746192008);;;;x;218.1176;218.12;218.12
+564;C14H19NO;4-Methyl-?-pyrrolidinopropiophenone;"(EWA; Synthetic cathinones)";x;;;218.1539;218.15;218.16
+561;C14H19NO;1-(3-Methylphenyl)-2-(pyrrolidin-1-yl)propan-1-one;"(EWA; Synthetic cathinones)";x;;;218.1539;218.15;218.16
+541;C14H19NO;Deschloro-N-ethyl-ketamine;"(EWA; Phencyclidine-type substances)";x;;;218.1539;218.15;218.16
+415;C14H19NO;alpha-pyrrolidinobutiophenone;"(EWA; Synthetic cathinones)";x;;;218.1539;218.15;218.16
+582;C9H18N2O4;Meprobamate (7611746204008);;;;x;219.1339;219.13;219.14
+1 028;C13H18N2O;Acetylnorfentanyl;"(EWA; Other substances)";x;;;219.1492;219.15;219.15
+620;C13H18N2O;4-Hydroxy-N-methyl-N-ethyltryptamine;"(EWA; Tryptamines)";x;;;219.1492;219.15;219.15
+508;C13H18N2O;5-Methoxy-N,N-dimethyltryptamine (T.e 87);"(EWA; Tryptamines)";x;;x;219.1492;219.15;219.15
+505;C13H18N2O;4-Methoxy-N,N-dimethyltryptamine;"(EWA; Tryptamines)";x;;;219.1492;219.15;219.15
+544;C14H21NO;2-(isopropylamino)-1-phenylpentan-1-one;"(EWA; Synthetic cathinones)";x;;;220.1696;220.17;220.17
+538;C14H21NO;N-ethylhexedrone;"(EWA; Synthetic cathinones)";x;;;220.1696;220.17;220.17
+536;C14H21NO;2-(Ethylamino)-1-(4-methylphenyl)pentan-1-one;"(EWA; Synthetic cathinones)";x;;;220.1696;220.17;220.17
+413;C14H21NO;?-Propylaminopentiophenone;"(EWA; Synthetic cathinones)";x;;;220.1696;220.17;220.17
+234;C14H21NO;3,4-dimethyl-N-ethylbuphedrone;"(EWA; Synthetic cathinones)";x;;;220.1696;220.17;220.17
+163;C11H12N2O3;5-Hydroxytryptophan;"(EWA; Tryptamines)";x;;;221.0921;221.09;221.09
+557;C12H14NO3;Methylmorphenate;"(EWA; Other substances)";x;;;221.1046;221.10;221.11
+829;C12H15NO3;Ethylone (7611746958086);"(EWA; Synthetic cathinones)";x;;x;222.1125;222.11;222.11
+688;C12H15NO3;Hydrocotarnine;Heroin impurity;;x;;222.1125;222.11;222.11
+333;C12H15NO3;3,4-Methylenedioxy-N,N-dimethcathinone;"(EWA; Synthetic cathinones)";x;;;222.1125;222.11;222.11
+205;C12H15NO3;3,4-Ethylenedioxymethcathinone;"(EWA; Synthetic cathinones)";x;;;222.1125;222.11;222.11
+182;C12H15NO3;Butylone (7611746990994);"(EWA; Synthetic cathinones)";x;;x;222.1125;222.11;222.11
+462;C13H16FNO;2-Fluorodeschloroketamine;"(EWA; Phencyclidine-type substances)";x;;;222.1289;222.13;222.13
+883;C13H19NO2;alpha-?methyl-?N-?propyl-?1,?3-?benzodioxole-?5-?ethanamine;"(EWA; Phenethylamines)";x;;;222.1489;222.15;222.15
+647;C14H23NO;Tapentadol (7611746990888);;;;x;222.1852;222.18;222.19
+565;C12H17NOS;alpha-PBT (T.e 162);"(EWA; Other substances)";x;;x;224.1104;224.11;224.11
+880;C12H17NO3;1-(2,3-dihydro-1,4-benzodioxin-6-yl)-N-hydroxy-N-methylpropan-2-amine;"(EWA; Phenethylamines)";x;;;224.1281;224.13;224.13
+430;C12H17NO3;3,4-Methylenedioxy-N-hydroxyethylamphetamine;"(EWA; Phenethylamines)";x;;;224.1281;224.13;224.13
+216;C12H17NO3;Dimethoxymethcathinone;"(EWA; Synthetic cathinones)";x;;;224.1281;224.13;224.13
+529;C13H18FNO;4-fluoro-N-ethylpentedrone;"(EWA; Synthetic cathinones)";x;;;224.1445;224.14;224.15
+503;C13H21NO2;2C-IP;"(EWA; Phenethylamines)";x;;;224.1645;224.16;224.17
+452;C13H21NO2;2C-P (T.e 10);"(EWA; Phenethylamines)";x;;x;224.1645;224.16;224.17
+276;C13H21NO2;DOET  (7611746138006);;;;x;224.1645;224.16;224.17
+713;C11H16N2O3;Butalbital (7611746171003);;;;x;225.1234;225.12;225.12
+704;C11H16N2O3;Vinylbital (7611746223009);;;;x;225.1234;225.12;225.12
+377;C13H24N2O;Cuscohygrine;Cocain alkaloid;;x;;225.1961;225.20;225.20
+265;C12H16ClNO;4-Chloropentedrone;"(EWA; Synthetic cathinones)";x;;;226.0993;226.10;226.10
+264;C12H16ClNO;1-(4-chlorophenyl)-2-(isopropylamino)propan-1-one;"(EWA; Synthetic cathinones)";x;;;226.0993;226.10;226.10
+796;C12H19NO3;TMA-2 (7611746136019);"(EWA; Phenethylamines)";x;;x;226.1438;226.14;226.14
+495;C12H19NO3;Escaline (T.e 147);"(EWA; Phenethylamines)";x;;x;226.1438;226.14;226.14
+228;C12H19NO3;TMA-2 (7611746156000);;;;x;226.1438;226.14;226.14
+210;C12H19NO3;2,4,6-Trimethoxyamphetamine;"(EWA; Phenethylamines)";x;;;226.1438;226.14;226.14
+1 005;C16H19N;Ephenidine (T.e 205);"(EWA; Other substances)";x;;x;226.1590;226.16;226.16
+58;C16H19N;Lefetamine (7611746196006);;;;x;226.1590;226.16;226.16
+450;C10H14N2O4;2C-N;"(EWA; Phenethylamines)";x;;;227.1026;227.10;227.10
+719;C11H18N2O3;Amobarbital (7611746166009);;;;x;227.1390;227.14;227.14
+718;C11H18N2O3;Pentobarbital (7611746213000);;;;x;227.1390;227.14;227.14
+321;C11H14ClNO2;1-(6-Chloro-1,3-benzodioxol-5-yl)-N-methylpropan-2-amine;"(EWA; Phenethylamines)";x;;;228.0786;228.08;228.08
+446;C11H17NO2S;2C-T;"(EWA; Phenethylamines)";x;;;228.1053;228.10;228.11
+260;C11H16ClNO2;2,5-Dimethoxy-4-chloroamphetamine;"(EWA; Phenethylamines)";x;;;230.0942;230.09;230.10
+1 012;C12H14F3N;N-Ethyl-5-trifluoromethyl-2-aminoindane;"(EWA; Aminoindanes)";x;;;230.1151;230.11;230.12
+195;C16H23N;Rolicyclidine (7611746153009);;;;x;230.1903;230.19;230.19
+197;C10H12Cl2N2;1-(2,3-Dichlorophenyl)piperazine;"(EWA; Piperazines)";x;;;231.0450;231.04;231.05
+380;C11H13F3N2;TFMPP (7611746991014);"(EWA; Piperazines)";x;;x;231.1104;231.11;231.11
+584;C15H21NO;Alpha-PVP (7611746958123);"(EWA; Synthetic cathinones)";x;;x;232.1696;232.17;232.17
+562;C15H21NO;4-Methyl-?-pyrrolidinobutiophenone;"(EWA; Synthetic cathinones)";x;;;232.1696;232.17;232.17
+412;C15H21NO;1-phenyl-2-(piperidin-1-yl)butan-1-one;"(EWA; Synthetic cathinones)";x;;;232.1696;232.17;232.17
+213;C15H21NO;1-(2,4-dimethylphenyl)-2-(pyrrolidin-1-yl)propan-1-one;"(EWA; Synthetic cathinones)";x;;;232.1696;232.17;232.17
+198;C15H21NO;N-ethylbuphedrone indane analogue;"(EWA; Synthetic cathinones)";x;;;232.1696;232.17;232.17
+64;C15H21NO;Metazocine (7611746063001);;;;x;232.1696;232.17;232.17
+720;C12H12N2O3;Phenobarbital (7611746214007);;;;x;233.0921;233.09;233.09
+1 027;C14H20N2O;Fentanyl, Nor (7611746047001);;;;x;233.1648;233.16;233.17
+1 010;C14H20N2O;5-Methoxy-N-methyl-N-ethyltryptamine;"(EWA; Tryptamines)";x;;;233.1648;233.16;233.17
+928;C14H20N2O;5-methoxy-N-isopropyltryptamine;"(EWA; Tryptamines)";x;;;233.1648;233.16;233.17
+622;C14H20N2O;4-Hydroxy-N-isopropyl-N-methyltryptamine;"(EWA; Tryptamines)";x;;;233.1648;233.16;233.17
+612;C14H20N2O;4-Hydroxy-N,N-diethyltryptamine (T.e. 125);"(EWA; Tryptamines)";x;;x;233.1648;233.16;233.17
+509;C14H20N2O;5-methoxy-2,N,N-trimethyltryptamine;"(EWA; Tryptamines)";x;;;233.1648;233.16;233.17
+875;C14H19NO2;Methylphenidate (7611746122005);;;;x;234.1489;234.15;234.15
+661;C14H19NO2;3-methoxy-alpha-pyrolidinopropiophenone;"(EWA; Synthetic cathinones)";x;;;234.1489;234.15;234.15
+481;C14H19NO2;Methoxmetamine;"(EWA; Phencyclidine-type substances)";x;;;234.1489;234.15;234.15
+464;C14H19NO2;Methoxyketamine;"(EWA; Phencyclidine-type substances)";x;;;234.1489;234.15;234.15
+303;C14H19NO2;4-methoxy-alpha-pyrrolidinopropiophenone;"(EWA; Synthetic cathinones)";x;;;234.1489;234.15;234.15
+1 003;C15H23NO;2-(4-Methoxyphenyl)-2-(ethylamino)cyclohexane;"(EWA; Phencyclidine-type substances)";x;;;234.1852;234.18;234.19
+1 002;C15H23NO;3-Methoxyeticyclidine;"(EWA; Phencyclidine-type substances)";x;;;234.1852;234.18;234.19
+543;C15H23NO;NiPH;"(EWA; Synthetic cathinones)";x;;;234.1852;234.18;234.19
+127;C13H18N2O2;(4-Methoxyphenyl)(4-methylpiperazine-1-yl)methanone;"(EWA; Piperazines)";x;;;235.1441;235.14;235.15
+929;C14H22N2O;Lidocaine;Adulterant;;x;;235.1805;235.18;235.18
+338;C13H17NO3;Propylone;"(EWA; Synthetic cathinones)";x;;;236.1281;236.13;236.13
+336;C13H17NO3;beta-keto-N-ethylbenzodioxolylpentanamine;"(EWA; Synthetic cathinones)";x;;;236.1281;236.13;236.13
+334;C13H17NO3;Eutylone;"(EWA; Synthetic cathinones)";x;;;236.1281;236.13;236.13
+331;C13H17NO3;beta-keto-N,N-dimethylbenzodioxolylbutanamine;"(EWA; Synthetic cathinones)";x;;;236.1281;236.13;236.13
+328;C13H17NO3;Iso-pentylone;"(EWA; Synthetic cathinones)";x;;;236.1281;236.13;236.13
+287;C14H18FNO;4-fluoro-alpha-pyrolidinobutanophenone;"(EWA; Synthetic cathinones)";x;;;236.1445;236.14;236.15
+603;C14H21NO2;Epirocaine;"(EWA; Other substances)";x;;;236.1645;236.16;236.17
+697;C12H16N2O3;Cyclobarbital (7611746179009);;;;x;237.1234;237.12;237.12
+519;C13H20N2O2;Procaine;Adulterant;;x;;237.1598;237.16;237.16
+461;C13H16ClNO;Ketamine;"(EWA; HALLUCINOGENIC DRUGS)";x;;;238.0993;238.10;238.10
+268;C13H16ClNO;1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)propan-1-one;"(EWA; Synthetic cathinones)";x;;;238.0993;238.10;238.10
+687;C12H15NO4;Cotarnine;Heroin impurity;;x;;238.1074;238.11;238.11
+324;C12H15NO4;N-methyl-bk-MMDA-5;"(EWA; Synthetic cathinones)";x;;;238.1074;238.11;238.11
+322;C12H15NO4;6-MeO-bk-MDMA;"(EWA; Phenethylamines)";x;;;238.1074;238.11;238.11
+566;C13H19NOS;alpha-PVT (T. e 163);"(EWA; Other substances)";x;;x;238.1260;238.12;238.13
+482;C13H19NO3;Allylescaline (T. e 148);"(EWA; Phenethylamines)";x;;x;238.1438;238.14;238.14
+432;C13H19NO3;Viloxazine;"(EWA; Other substances)";x;;;238.1438;238.14;238.14
+592;C17H19N;2-(Diphenylmethyl)pyrrolidine;"(EWA; Other substances)";x;;;238.1590;238.16;238.16
+281;C14H20FNO;1-(4-Fluorophenyl)-2-(isopropylamino)pentan-1-one4-fluoro-N-isopropylnorpentedrone;"(EWA; Synthetic cathinones)";x;;;238.1602;238.16;238.16
+297;C14H23NO2;1-(4-isopropyl-2,5-dimethoxyphenyl)propan-2-amine;"(EWA; Phenethylamines)";x;;;238.1802;238.18;238.18
+215;C14H23NO2;DOPR;"(EWA; Phenethylamines)";x;;;238.1802;238.18;238.18
+714;C12H18N2O3;Secobarbital (7611746128137);;;;x;239.1390;239.14;239.14
+517;C13H18ClNO;4-chlorobutylcathinone;"(EWA; Synthetic cathinones)";x;;;240.1150;240.11;240.12
+263;C13H18ClNO;4-Cl-EAPP;"(EWA; Synthetic cathinones)";x;;;240.1150;240.11;240.12
+502;C13H21NO3;2C-O-4;"(EWA; Phenethylamines)";x;;;240.1594;240.16;240.16
+471;C13H21NO3;2-(3,5-Dimethoxy-4-propoxyphenyl)ethanamine;"(EWA; Phenethylamines)";x;;;240.1594;240.16;240.16
+275;C13H21NO3;3C-E;"(EWA; Phenethylamines)";x;;;240.1594;240.16;240.16
+274;C13H21NO3;2,5-Dimethoxy-4-ethoxyamphetamine;"(EWA; Phenethylamines)";x;;;240.1594;240.16;240.16
+884;C17H21N;N-(1,2-Diphenylethyl)propan-2-amine;"(EWA; Phenethylamines)";x;;;240.1747;240.17;240.18
+92;C17H21N;Benzphetamine (7611746169000);;;;x;240.1747;240.17;240.18
+920;C16H20N2;N,N-diallyltryptamine;"(EWA; Tryptamines)";x;;;241.1699;241.17;241.17
+256;C10H12BrNO;4-Bromomethcathinone;"(EWA; Synthetic cathinones)";x;;;242.0175;242.02;242.02
+239;C10H12BrNO;3-Bromomethcathinone;"(EWA; Synthetic cathinones)";x;;;242.0175;242.02;242.02
+832;C12H19NO2S;2C-T-2 (7611746137016);"(EWA; Phenethylamines)";x;;x;242.1209;242.12;242.12
+51;C16H19NO;DP-UR-144;"(EWA; Synthetic cannabinoids)";x;;;242.1539;242.15;242.16
+878;C16H21NO;Norlevorphanol (7611746087007);;;;x;244.1696;244.17;244.17
+194;C17H25N;PCP (7611746124009);;;;x;244.2060;244.20;244.21
+925;C15H20N2O;5-Methoxy-methylallyltryptamine;"(EWA; Tryptamines)";x;;;245.1648;245.16;245.17
+724;C15H20N2O;5-methoxy-N,N-tetramethylenetryptamine;"(EWA; Tryptamines)";x;;;245.1648;245.16;245.17
+924;C16H24N2;N,N-dipropyltryptamine;"(EWA; Tryptamines)";x;;;245.2012;245.20;245.20
+921;C16H24N2;N,N-diisopropyltryptamine;"(EWA; Tryptamines)";x;;;245.2012;245.20;245.20
+786;C15H19NO2;Tropacocaine (TROPA);"Cocain alkaloid; (EWA; Cocain alkaloid)";x;x;;246.1489;246.15;246.15
+689;C16H23NO;?-PHiP;"(EWA; Synthetic cathinones)";x;;;246.1852;246.18;246.19
+417;C16H23NO;alpha-pyrrolidinohexanophenone;"(EWA; Synthetic cathinones)";x;;;246.1852;246.18;246.19
+307;C16H23NO;Pyrovalerone (7611746219002);;;;x;246.1852;246.18;246.19
+199;C16H23NO;1-(2,3-dihydro-1H-inden-5-yl)-2-(ethylamino)pentan-1-one;"(EWA; Synthetic cathinones)";x;;;246.1852;246.18;246.19
+717;C13H14N2O3;Methylphenobarbital (7611746199007);;;;x;247.1077;247.11;247.11
+616;C14H18N2O2;4-Acetoxy-N,N-dimethyltryptamine;"(EWA; Tryptamines)";x;;;247.1441;247.14;247.15
+962;C15H22N2O;5-methoxy-diethyltryptamine;"(EWA; Tryptamines)";x;;;247.1805;247.18;247.18
+926;C15H22N2O;5-Methoxy-N-isopropyl-N-methyltryptamine;"(EWA; Tryptamines)";x;;;247.1805;247.18;247.18
+512;C14H17NO3;N-Allylmethylone;"(EWA; Synthetic cathinones)";x;;;248.1281;248.13;248.13
+341;C14H17NO3;3,4-Methylenedioxy-?-pyrrolidinopropiophenone;"(EWA; Synthetic cathinones)";x;;;248.1281;248.13;248.13
+867;C15H21NO2;4-methylmethylphenidate;"(EWA; Other substances)";x;;;248.1645;248.16;248.17
+819;C15H21NO2;Pethidine (7611746095002);;;;x;248.1645;248.16;248.17
+793;C15H21NO2;Methoxetamine (7611746964728);"(EWA; Phencyclidine-type substances)";x;;x;248.1645;248.16;248.17
+402;C15H21NO2;Desmethylprodine (7611746070009);;;;x;248.1645;248.16;248.17
+381;C15H21NO2;Ketobemidone (7611746058007);;;;x;248.1645;248.16;248.17
+299;C15H21NO2;1-(4-Methoxyphenyl)-2-(pyrrolidin-1-yl)butan-1-one;"(EWA; Synthetic cathinones)";x;;;248.1645;248.16;248.17
+70;C15H21NO2;25I-NBOMe (7611746958468);"(EWA; Phenethylamines)";x;;x;248.1645;248.16;248.17
+67;C15H21NO2;Ethylphenidate (7611746965169);"(EWA; Other substances)";x;;x;248.1645;248.16;248.17
+447;C11H14F3NO2;2C-TFM;"(EWA; Phenethylamines)";x;;;250.1049;250.10;250.11
+882;C13H15NO4;N-acetyl methylone;"(EWA; Synthetic cathinones)";x;;;250.1074;250.11;250.11
+342;C14H19NO3;3,4-methylenedioxy-N-tert-butylcathinone;"(EWA; Synthetic cathinones)";x;;;250.1438;250.14;250.15
+337;C14H19NO3;1-(1,3-benzodioxol-5-yl)-2-(propylamino)butan-1-one;"(EWA; Synthetic cathinones)";x;;;250.1438;250.14;250.15
+335;C14H19NO3;Ephylone;"(EWA; Synthetic cathinones)";x;;;250.1438;250.14;250.15
+332;C14H19NO3;1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)pentan-1-one;"(EWA; Synthetic cathinones)";x;;;250.1438;250.14;250.15
+291;C15H20FNO;4-fluoro-alpha-pyrrolidinovalerophenone;"(EWA; Synthetic cathinones)";x;;;250.1602;250.16;250.16
+379;C15H23NS;TCP (7611746154006);;;;x;250.1624;250.16;250.16
+610;C15H23NO2;O-Desmethyltramadol;"(EWA; Other substances)";x;;;250.1802;250.18;250.18
+604;C16H14N2O;Methaqualone (7611746127000);;;;x;251.1179;251.12;251.12
+460;C14H18ClNO;N-Ethyl-ketamine;"(EWA; Phencyclidine-type substances)";x;;;252.1150;252.11;252.12
+864;C14H18FNO2;4-fluoromethylphenidate (T. e 196);"(EWA; Other substances)";x;;x;252.1394;252.14;252.14
+470;C14H21NO3;Methallylescaline (T.e 149);"(EWA; Phenethylamines)";x;;x;252.1594;252.16;252.16
+591;C18H21N;2-Diphenylmethylpiperidine;"(EWA; Other substances)";x;;;252.1747;252.17;252.18
+282;C15H22FNO;4-Fluorooctedrone;"(EWA; Synthetic cathinones)";x;;;252.1758;252.17;252.18
+1 101;C16H12O3;3,6-Dimethoxy-4,5-epoxyphenanthrene;Heroin impurity;;x;;253.0859;253.08;253.09
+806;C17H19NO;Diphenylprolinol (T.e 58);"(EWA; Other substances)";x;;x;254.1539;254.15;254.16
+516;C17H19NO;4-Methyl-N-benzylcathinone;"(EWA; Synthetic cathinones)";x;;;254.1539;254.15;254.16
+238;C14H23NO3;3C-P;"(EWA; Phenethylamines)";x;;;254.1751;254.17;254.18
+255;C11H14BrNO;4-Bromoethcathinone;"(EWA; Synthetic cathinones)";x;;;256.0332;256.03;256.03
+581;C13H21NO2S;2C-T-7 (7611746138013);"(EWA; Phenethylamines)";x;;x;256.1366;256.14;256.14
+483;C13H21NO2S;2C-T-4;"(EWA; Phenethylamines)";x;;;256.1366;256.14;256.14
+173;C12H14F2N2O2;Difluoromethylenedioxybenzylpiperazine;"(EWA; Piperazines)";x;;;257.1096;257.11;257.11
+390;C17H23NO;Racemorphan (7611746111009);;;;x;258.1852;258.18;258.19
+389;C17H23NO;Levorphanol/dextrophan (7611746062004);;;;x;258.1852;258.18;258.19
+200;C17H23NO;alpha-pyrolidinobutiophenone indane analogue;"(EWA; Synthetic cathinones)";x;;;258.1852;258.18;258.19
+180;C18H27N;1-[1-(4-Methylphenyl)cyclohexyl]-piperidine;"(EWA; Phencyclidine-type substances)";x;;;258.2216;258.22;258.22
+723;C9H10IN;5-Iodo-2-aminoindane;"(EWA; Aminoindanes)";x;;;259.9931;259.99;259.99
+484;C10H14BrNO2;2-CB (7611746350002);;;;x;260.0281;260.03;260.03
+608;C17H25NO;1-[1(3-Hydroxyphenyl)-cyclohexyl]piperidine;"(EWA; Phencyclidine-type substances)";x;;;260.2009;260.20;260.20
+563;C17H25NO;4-Methyl-?-pyrrolidinohexiophenone;"(EWA; Synthetic cathinones)";x;;;260.2009;260.20;260.20
+416;C17H25NO;alpha-pyrrolidinoheptiophenone;"(EWA; Synthetic cathinones)";x;;;260.2009;260.20;260.20
+237;C17H25NO;3,4-dimethyl-alpha-PVP;"(EWA; Synthetic cathinones)";x;;;260.2009;260.20;260.20
+621;C15H20N2O2;4-Acetoxy-N-methyl-N-ethyltryptamine;"(EWA; Tryptamines)";x;;;261.1598;261.16;261.16
+1 014;C16H24N2O;5-methoxy-N-isopropyl ethyltryptamine;"(EWA; Tryptamines)";x;;;261.1961;261.19;261.20
+618;C16H24N2O;4-Hydroxy-dipropyltryptamine;"(EWA; Tryptamines)";x;;;261.1961;261.19;261.20
+614;C16H24N2O;4-Hydroxy-N,N-diisopropyltryptamine;"(EWA; Tryptamines)";x;;;261.1961;261.19;261.20
+339;C15H19NO3;3,4-Methylenedioxy-?-pyrrolidinobutyrophenone;"(EWA; Synthetic cathinones)";x;;;262.1438;262.14;262.15
+1 036;C16H23NO2;Propylphenidate (T.e 197);"(EWA; Other substances)";x;;x;262.1802;262.18;262.18
+831;C16H23NO2;Isopropylphenidate (T.e 198);"(EWA; Other substances)";x;;x;262.1802;262.18;262.18
+830;C16H23NO2;Properidine (7611746107002);;;;x;262.1802;262.18;262.18
+302;C16H23NO2;4-Methoxy-alpha-pyrrolidinovalerophenone;"(EWA; Synthetic cathinones)";x;;;262.1802;262.18;262.18
+102;C16H23NO2;Alphaprodine (7611746008002);;;;x;262.1802;262.18;262.18
+101;C16H23NO2;Betaprodine (7611746015000);;;;x;262.1802;262.18;262.18
+970;C14H17NS2;Dimethylthiambutene (7611746030003);;;;x;264.0875;264.09;264.09
+853;C15H18FNO2;M5FPIC;"(EWA; Synthetic cannabinoids)";x;;;264.1394;264.14;264.14
+63;C15H18FNO2;Fluorotropacocaine;"(EWA; Other substances)";x;;;264.1394;264.14;264.14
+824;C15H21NO3;Hydroxypethidine (7611746056003);;;;x;264.1594;264.16;264.16
+293;C16H22FNO;4F-?-PHiP;"(EWA; Synthetic cathinones)";x;;;264.1758;264.17;264.18
+289;C16H22FNO;4-fluoro-alpha-pyrrolidinohexanophenone;"(EWA; Synthetic cathinones)";x;;;264.1758;264.17;264.18
+286;C16H22FNO;1-(4-fluorophenyl)-2-(piperidin-1-yl)pentan-1-one;"(EWA; Synthetic cathinones)";x;;;264.1758;264.17;264.18
+628;C17H16N2O;Etaqualone;"(EWA; Other substances)";x;;;265.1335;265.13;265.13
+624;C17H16N2O;Methylmethaqualone;"(EWA; Other substances)";x;;;265.1335;265.13;265.13
+524;C15H24N2O2;Tetracaine;Adulterant;;x;;265.1911;265.19;265.19
+124;C17H15NO2;3-(para-Methoxybenzoyl)-N-methylindole;"(EWA; Synthetic cannabinoids)";x;;;266.1176;266.12;266.12
+267;C15H20ClNO;4-chloro-alpha-pyrrolidinovalerophenone;"(EWA; Synthetic cathinones)";x;;;266.1306;266.13;266.13
+821;C15H20FNO2;4-fluoroethylphenidate;"(EWA; Other substances)";x;;;266.1551;266.15;266.16
+230;C15H23NO3;1-(3,4-dimethoxyphenyl)-2-(ethylamino)pentan-1-one;"(EWA; Synthetic cathinones)";x;;;266.1751;266.17;266.18
+181;C19H23N;diphenidine (T.e 138);"(EWA; Other substances)";x;;x;266.1903;266.19;266.19
+746;C16H14N2O2;URB754 (T.e 77);"(EWA; Synthetic cannabinoids)";x;;x;267.1128;267.11;267.11
+375;C18H22N2;1,4-Dibenzylpiperazine;"(EWA; Piperazines)";x;;;267.1856;267.18;267.19
+147;C16H17N3O;(8ß)-9,10-didehydro-6-methyl-ergoline-8-carboxamide;"(EWA; Other substances)";x;;;268.1444;268.14;268.15
+805;C18H21NO;Pipradol (7611746217008);;;;x;268.1696;268.17;268.17
+515;C18H21NO;2-(benzylamino)-1-(4-methylphenyl)butan-1-one;"(EWA; Synthetic cathinones)";x;;;268.1696;268.17;268.17
+514;C18H21NO;N-methylbenzedrone;"(EWA; Synthetic cathinones)";x;;;268.1696;268.17;268.17
+752;C15H11ClN2O;Nordazepam (7611746210009);;;;x;271.0633;271.06;271.06
+627;C15H11ClN2O;Mecloqualone (7611746126003);;;;x;271.0633;271.06;271.06
+758;C16H15ClN2;Medazepam (7611746202004);;;;x;271.0997;271.10;271.10
+980;C17H22N2O;5-Methoxy-N,N-diallyltryptamine (T.e. 88);"(EWA; Tryptamines)";x;;x;271.1805;271.18;271.18
+320;C11H14BrNO2;6-Bromo-3,4-methylenedioxy-N-metylamphetamine;"(EWA; Phenethylamines)";x;;;272.0281;272.03;272.03
+1 089;C16H17NO3;Normorphine (7611746089001);Heroin alkaloid;;x;x;272.1281;272.13;272.13
+1 062;C17H21NO2;Desomorphine (7611746025009);;;;x;272.1645;272.16;272.17
+854;C17H21NO2;M-CHMIC;"(EWA; Synthetic cannabinoids)";x;;;272.1645;272.16;272.17
+1 095;C18H25NO;dextromethorphan (7611746109006);;;;x;272.2009;272.20;272.20
+660;C18H25NO;Levomethorphan (7611746059004);;;;x;272.2009;272.20;272.20
+558;C18H25NO;TH-PBP;"(EWA; Synthetic cathinones)";x;;;272.2009;272.20;272.20
+242;C13H18Cl2N2;1-(3-Chlorophenyl)-4-(3-chloropropyl)piperazine;"(EWA; Piperazines)";x;;;273.0920;273.09;273.09
+585;C10H12BrNO3;bk-2C-B (T.e 137);"(EWA; Synthetic cathinones)";x;;x;274.0073;274.01;274.01
+488;C11H16BrNO2;N-Methyl-2C-B;"(EWA; Phenethylamines)";x;;;274.0437;274.04;274.05
+472;C11H16BrNO2;Bromo-STP;"(EWA; Phenethylamines)";x;;;274.0437;274.04;274.05
+811;C17H23NO2;Dextilidine (7611746116004);;;;x;274.1802;274.18;274.18
+206;C17H23NO2;5-dihydrobenzofuranpyrovalerone;"(EWA; Synthetic cathinones)";x;;;274.1802;274.18;274.18
+419;C18H27NO;1-phenyl-2-(pyrrolidin-1-yl)octan-1-one;"(EWA; Synthetic cathinones)";x;;;274.2165;274.22;274.22
+178;C18H27NO;4-Methoxyphencyclidine;"(EWA; Phencyclidine-type substances)";x;;;274.2165;274.22;274.22
+176;C18H27NO;3-Methoxyphencyclidine (T. e 104);"(EWA; Phencyclidine-type substances)";x;;x;274.2165;274.22;274.22
+623;C16H22N2O2;4-Acetoxy-N-isopropyl-N-methyltryptamine;"(EWA; Tryptamines)";x;;;275.1754;275.17;275.18
+613;C16H22N2O2;4-Acetoxy-N,N-diethyltryptamine (T. e 79);"(EWA; Tryptamines)";x;;x;275.1754;275.17;275.18
+1 031;C17H26N2O;Phenampromide (7611746098003);;;;x;275.2118;275.21;275.21
+1 015;C17H26N2O;5-Methoxy-N,N-diisopropyltryptamine (T.e 86);"(EWA; Tryptamines)";x;;x;275.2118;275.21;275.21
+927;C17H26N2O;5-Methoxy-N,N-dipropyltryptamine;"(EWA; Tryptamines)";x;;;275.2118;275.21;275.21
+445;C11H17NO2Se;2C-SE;"(EWA; Phenethylamines)";x;;;276.0497;276.05;276.05
+877;C16H21NO3;MDPV (7611746990970);"(EWA; Synthetic cathinones)";x;;x;276.1594;276.16;276.16
+1 016;C17H25NO2;N-isopropyl-N-(2-(5-methoxybenzofuran-3-yl)ethyl)propan-2-amine;"(EWA; Other substances)";x;;;276.1958;276.19;276.20
+671;C17H25NO2;4-(1-(3-Methoxyphenyl)cyclohexyl)morpholine (T.e. 200);"(EWA; Phencyclidine-type substances)";x;;x;276.1958;276.19;276.20
+653;C17H25NO2;Betameprodine (7611746013006);;;;x;276.1958;276.19;276.20
+372;C17H25NO2;Proheptazine (7611746106005);;;;x;276.1958;276.19;276.20
+370;C17H25NO2;Trimeperidine (7611746117001);;;;x;276.1958;276.19;276.20
+108;C17H25NO2;Meprodine (7611746006008);;;;x;276.1958;276.19;276.20
+972;C16H25N3O;Propiram (7611746108009);;;;x;276.2070;276.21;276.21
+288;C17H24FNO;1-(4-fluorophenyl)-2-(pyrrolidin-1-yl)heptan-1-one;"(EWA; Synthetic cathinones)";x;;;278.1915;278.19;278.19
+669;C13H9F3N4;3-methyl-6-[3-(trifluoromethyl)phenyl]-[1,2,4]triazolo[3,4-f]pyridazine;"(EWA; Other substances)";x;;;279.0852;279.08;279.09
+630;C16H26N2O2;Dimethocaine;"(EWA; Other substances)";x;;;279.2067;279.21;279.21
+440;C17H13NO3;alpha-phthalimidopropiophenone;"(EWA; Synthetic cathinones)";x;;;280.0968;280.10;280.10
+600;C15H21NO2S;2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one;"(EWA; Synthetic cathinones)";x;;;280.1366;280.14;280.14
+177;C17H26ClN;(±)-Dimethyl-1-[1-(4-chlorophenyl)cyclobutyl]-N,N,3-trimethylbutan-1-amine;"(EWA; Other substances)";x;;;280.1827;280.18;280.18
+410;C19H24N2;Despropionylfentanyl;"(EWA; Other substances)";x;;;281.2012;281.20;281.20
+258;C13H16BrNO;1-(4-bromophenyl)-2-(pyrrolidin-1-yl)propan-1-one;"(EWA; Synthetic cathinones)";x;;;282.0488;282.05;282.05
+778;C15H11N3O3;Nitrazepam (7611746209003);;;;x;282.0873;282.09;282.09
+363;C19H23NO;Naphthylpyrovalerone;"(EWA; Synthetic cathinones)";x;;;282.1852;282.18;282.19
+362;C19H23NO;1-?(naphthalen-?1-?yl)-?2-?(pyrrolidin-?1-?yl)pentan-?1-?one;"(EWA; Synthetic cathinones)";x;;;282.1852;282.18;282.19
+743;C19H22O2;CBV;Phytocannabinoids;;x;;283.1693;283.17;283.17
+511;C12H14BrNO2;2C-B-FLY;"(EWA; Phenethylamines)";x;;;284.0281;284.03;284.03
+330;C17H17NO3;3,4-Methylenedioxy-N-benzylcathinone;"(EWA; Synthetic cathinones)";x;;;284.1281;284.13;284.13
+1 069;C18H21NO2;Methyldesorphine (7611746066002);;;;x;284.1645;284.16;284.17
+866;C18H21NO2;methylnaphthidate;"(EWA; Other substances)";x;;;284.1645;284.16;284.17
+934;C19H25NO;4-MMA-NBOMe;"(EWA; Phenethylamines)";x;;;284.2009;284.20;284.20
+278;C19H25NO;4-EA-NBOMe;"(EWA; Phenethylamines)";x;;;284.2009;284.20;284.20
+756;C16H13ClN2O;Diazepam (7611746181002);;;;x;285.0789;285.08;285.08
+706;C16H13ClN2O;Mazindol (7611746201007);;;;x;285.0789;285.08;285.08
+649;C12H17N2O4P;Psilocybin (7611746152002);;;;x;285.0999;285.10;285.10
+774;C15H12ClN3O;Chlordiazepoxide, desmethyl (7611746174004);;;;x;286.0742;286.07;286.08
+1 086;C17H19NO3;Norcodeine (7611746086000);;;;x;286.1438;286.14;286.15
+1 074;C17H19NO3;Morphine (7611746078005);Heroin alcaloid;;x;x;286.1438;286.14;286.15
+1 065;C17H19NO3;Dihydromorphinone (7611746053002);;;;x;286.1438;286.14;286.15
+560;C19H27NO;2-pyrrolidin-1-yl-1-tetralin-6-yl-pentan-1-one;"(EWA; Synthetic cathinones)";x;;;286.2165;286.22;286.22
+201;C19H27NO;Indanyl-alpha-pyrolidonohexanophenone;"(EWA; Synthetic cathinones)";x;;;286.2165;286.22;286.22
+66;C19H27NO;Pentazocine (7611746094005);;;;x;286.2165;286.22;286.22
+773;C15H11ClN2S;Thionordazepam;"(EWA; Other substances)";x;;;287.0404;287.04;287.04
+761;C15H11ClN2O2;Oxazepam (7611746211006);;;;x;287.0582;287.06;287.06
+742;C19H26O2;THCV;;;;;287.2006;287.20;287.20
+576;C19H26O2;Cannabidivarin;;;;;287.2006;287.20;287.20
+510;C19H26O2;CBDV;;;;;287.2006;287.20;287.20
+487;C12H18BrNO2;N-Ethyl-2C-B;"(EWA; Phenethylamines)";x;;;288.0594;288.06;288.06
+1 073;C17H21NO3;Dihydromorphine (7611746033004);;;;x;288.1594;288.16;288.16
+651;C18H25NO2;Allylprodine (7611746004004);;;;x;288.1958;288.19;288.20
+418;C19H29NO;alpha-pyrrolidinononaphenone;"(EWA; Synthetic cathinones)";x;;;288.2322;288.23;288.23
+768;C15H10ClFN2O;Norfludiazepam;"(EWA; Other substances)";x;;;289.0538;289.05;289.06
+762;C16H17ClN2O;Tetrazepam (7611746221005);;;;x;289.1102;289.11;289.11
+578;C19H28O2;CBGV;Phytocannabinoids;;;;289.2162;289.21;289.22
+593;C15H15NO3S;Modafinil sulphone;"(EWA; Other substances)";x;;;290.0845;290.08;290.09
+513;C15H15NO3S;Adrafinil;"(EWA; Other substances)";x;;;290.0845;290.08;290.09
+843;C16H19NO4;Norcocaine (NOR);Cocain impurity;;x;;290.1387;290.14;290.14
+60;C16H19NO4;Benzoylecgonine (BENZO);Cocain metabolite;;x;;290.1387;290.14;290.14
+340;C17H23NO3;3,4-Methylenedioxy-alpha-pyrrolidinohexanophenone;"(EWA; Synthetic cathinones)";x;;;290.1751;290.17;290.18
+98;C17H23NO3;Mesembrine;"(EWA; Other substances)";x;;;290.1751;290.17;290.18
+670;C18H27NO2;4-((1-(3-methoxyphenyl)cyclohexyl)methyl)morpholine;"(EWA; Phencyclidine-type substances)";x;;;290.2115;290.21;290.21
+300;C18H27NO2;4-methoxy-alpha-pyrolidinoheptanophenone;"(EWA; Synthetic cathinones)";x;;;290.2115;290.21;290.21
+993;C20H21NO;JWH-030;"(EWA; Synthetic cannabinoids)";x;;;292.1696;292.17;292.17
+232;C17H25NO3;3,4-dimethoxy-?-pyrrolidinovalerophenone;"(EWA; Synthetic cathinones)";x;;;292.1907;292.19;292.19
+290;C18H26FNO;1-(4-fluorophenyl)-2-(pyrrolidin-1-yl)octan-1-one;"(EWA; Synthetic cathinones)";x;;;292.2071;292.21;292.21
+1 056;C19H20N2O;(1-Pentyl-1H-indol-3-yl)(pyridin-3-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;293.1648;293.16;293.17
+57;C19H20N2O;(1-Pentyl-1H-indol-3-yl)(pyridin-3-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;293.1648;293.16;293.17
+326;C13H12BrNO2;Bromodragonfly;"(EWA; Phenethylamines)";x;;;294.0124;294.01;294.01
+785;C16H11ClN4;Estazolam (7611746182009);;;;x;295.0745;295.07;295.08
+403;C16H13N3O3;Nimetazepam (7611746208006);;;;x;296.1030;296.10;296.10
+800;C19H21NO2;URB602;"(EWA; Synthetic cannabinoids)";x;;;296.1645;296.16;296.17
+350;C19H21NO2;5-APB-NBOMe;"(EWA; Phenethylamines)";x;;;296.1645;296.16;296.17
+738;C20H25NO;Normethadone (7611746088004);;;;x;296.2009;296.20;296.20
+175;C20H25NO;2-MeO-diphenidine;"(EWA; Other substances)";x;;;296.2009;296.20;296.20
+643;C18H16O4;Acetylthebaol;Heroin impurity;;x;;297.1121;297.11;297.11
+640;C18H16O4;?-Truxinic acid;Cocain impurity;;x;;297.1121;297.11;297.11
+573;C18H16O4;Alpha-Truxillic Acid;Cocain impurity;;x;;297.1121;297.11;297.11
+325;C13H16BrNO2;1-(8-Bromo-2,3,6,7-tetrahydrobenzo[2,3-f][1]benzofuran-4-yl)-propan-2-amine;"(EWA; Phenethylamines)";x;;;298.0437;298.04;298.05
+1 070;C18H19NO3;Rripavine (7611746270003);;;;x;298.1438;298.14;298.15
+329;C18H19NO3;1-(1,3-benzodioxol-5-yl)-2-(benzylamino)butan-1-one;"(EWA; Synthetic cathinones)";x;;;298.1438;298.14;298.15
+822;C19H23NO2;Ethylnaphthidate (T.e 195);"(EWA; Other substances)";x;;x;298.1802;298.18;298.18
+733;C17H15ClN2O;Homomazindol;"(EWA; Other substances)";x;;;299.0946;299.09;299.10
+611;C18H22N2O2;4-Acetoxy-N,N-diallyltryptamine (T. e 78);"(EWA; Tryptamines)";x;;x;299.1754;299.17;299.18
+931;C19H23FN2;Despropionyl-2-fluorofentanyl;"(EWA; Other substances)";x;;;299.1918;299.19;299.19
+703;C15H10FN3O3;Desmethylflunitrazepam;"(EWA; Other substances)";x;;;300.0779;300.08;300.08
+47;C21H17NO;JWH-071;"(EWA; Synthetic cannabinoids)";x;;;300.1383;300.14;300.14
+1 084;C18H21NO3;Codeine (7611746022008);Heroin alcaloid;;x;x;300.1594;300.16;300.16
+1 067;C18H21NO3;Hydrocodone (7611746051008);;;;x;300.1594;300.16;300.16
+1 066;C18H21NO3;Metopon (7611746073000);;;;x;300.1594;300.16;300.16
+179;C19H25NS;Benzothiophenylcyclohexylpiperidine;"(EWA; Other substances)";x;;;300.1780;300.18;300.18
+56;C18H25N3O;(1-pentyl-1H-indol-3-yl)piperazin-1-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;300.2070;300.21;300.21
+559;C20H29NO;2-pyrrolidin-1-yl-1-tetralin-6-yl-hexan-1-one;"(EWA; Synthetic cathinones)";x;;;300.2322;300.23;300.23
+760;C16H13ClN2O2;Temazepam (7611746220008);;;;x;301.0738;301.07;301.08
+757;C16H13ClN2O2;Clobazam (7611746175001);;;;x;301.0738;301.07;301.08
+53;C17H24N4O;(1-pentyl-1H-indazol-3-yl)(piperazin-1-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;301.2023;301.20;301.20
+863;C14H17Cl2NO2;3,4-Dichloromethylphenidate (T. e 128);"(EWA; Other substances)";x;;x;302.0709;302.07;302.07
+1 063;C17H19NO4;Oxymorphone (7611746093008);;;;x;302.1387;302.14;302.14
+74;C17H19NO4;Morphine-N-oxide (7611746080008);Heroin impurity;;x;x;302.1387;302.14;302.14
+1 087;C18H23NO3;Methyldihydromorphine (7611746067009);;;;x;302.1751;302.17;302.18
+1 081;C18H23NO3;Dihydrocodeine (7611746032007);;;;x;302.1751;302.17;302.18
+218;C18H23NO3;25H-NBOMe;"(EWA; Phenethylamines)";x;;;302.1751;302.17;302.18
+769;C16H12ClFN2O;Fludiazepam (7611746189008);;;;x;303.0695;303.07;303.07
+38;C18H23FN2O;5F-PY-PICA;"(EWA; Synthetic cannabinoids)";x;;;303.1867;303.19;303.19
+619;C18H26N2O2;4-Acetoxy-N,N-dipropyltryptamine (T. e 81);"(EWA; Tryptamines)";x;;x;303.2067;303.21;303.21
+615;C18H26N2O2;4-Acetoxy-N,N-diisopropyltryptamine (T. e 80);"(EWA; Tryptamines)";x;;x;303.2067;303.21;303.21
+1 072;C17H21NO4;Hydromorphinol (7611746052005);;;;x;304.1543;304.15;304.16
+844;C17H21NO4;Cocaine (7611746021001);;;;x;304.1543;304.15;304.16
+32;C17H22FN3O;5F-PY-PINACA;"(EWA; Synthetic cannabinoids)";x;;;304.1820;304.18;304.18
+301;C19H29NO2;1-(4-methoxyphenyl)-2-(pyrrolidin-1-yl)octan-1-one;"(EWA; Synthetic cathinones)";x;;;304.2271;304.23;304.23
+764;C15H10Cl2N2O;Delorazepam (7611746180005);;;;x;305.0243;305.02;305.03
+1 051;C20H32O2;CP-47,497-C6;"(EWA; Synthetic cannabinoids)";x;;;305.2475;305.25;305.25
+475;C20H32O2;CP 47,497-C6-homologues (7611746990956);;;;x;305.2475;305.25;305.25
+940;C16H20BrN;Bromantane;"(EWA; Other substances)";x;;;306.0852;306.08;306.09
+202;C21H23NO;1-(2,3-dihydro-1H-inden-5-yl)-2-phenyl-2-(pyrrolidinyl-1-yl)ethan-1-one;"(EWA; Synthetic cathinones)";x;;;306.1852;306.18;306.19
+231;C18H27NO3;3,4-DMeO-alpha-PHP;"(EWA; Synthetic cathinones)";x;;;306.2064;306.20;306.21
+650;C19H18N2O2;Amfonelic acid;"(EWA; Other substances)";x;;;307.1441;307.14;307.15
+409;C20H22N2O;SDB-006 N-phenyl analogue;"(EWA; Synthetic cannabinoids)";x;;;307.1805;307.18;307.18
+696;C17H17N5O;N,N-Dimethyl-5-[(4-biphenyl)methyl]tetrazole-2-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;308.1506;308.15;308.15
+695;C17H17N5O;LY-2183240;"(EWA; Synthetic cannabinoids)";x;;;308.1506;308.15;308.15
+395;C20H21NO2;RCS-2 butyl;"(EWA; Synthetic cannabinoids)";x;;;308.1645;308.16;308.17
+43;C20H21NO2;RCS-4 butyl homologue;"(EWA; Synthetic cannabinoids)";x;;;308.1645;308.16;308.17
+968;C19H21N3O;Zolpidem (7611746360001);;;;x;308.1757;308.17;308.18
+772;C18H13ClN2O;Pinazepam (7611746216001);;;;x;309.0789;309.08;309.08
+782;C17H13ClN4;Alprazolam (7611746165002);;;;x;309.0902;309.09;309.09
+598;C17H16N4S;Deschloroetizolam (T.e 175);;x;;x;309.1168;309.12;309.12
+631;C16H24N2O4;Nitracaine (T.e 133);"(EWA; Other substances)";x;;x;309.1809;309.18;309.18
+89;C11H17BrClNO2;DOB (7611746137009);;;;x;312.0183;312.02;312.02
+433;C15H13F2NO2S;Bisfluoromodafinil;"(EWA; Other substances)";x;;;310.0708;310.07;310.07
+257;C15H20BrNO;4-Bromo-alpha-pyrolidinovalerophenone;"(EWA; Synthetic cathinones)";x;;;310.0801;310.08;310.08
+739;C21H27NO;Isomethadone (7611746057000);;;;x;310.2165;310.21;310.22
+736;C21H27NO;Methadone (7611746064008);;;;x;310.2165;310.21;310.22
+151;C21H27NO;Levomethadone (7611746979845);;;;x;310.2165;310.21;310.22
+42;C21H27NO;XLR-11 N-(4-pentenyl);"(EWA; Synthetic cannabinoids)";x;;;310.2165;310.21;310.22
+37;C19H19FN2O;5-fluoropentyl-3-pyridinoylindole;"(EWA; Synthetic cannabinoids)";x;;;311.1554;311.15;311.16
+158;C16H26N2O2S;A-836,339 (T. e 70);"(EWA; Synthetic cannabinoids)";x;;x;311.1788;311.18;311.18
+741;C21H26O2;CBN;Phytocannabinoids;;x;;311.2006;311.20;311.20
+775;C20H26N2O;12-Methoxyibogamin;"(EWA; Other substances)";x;;;311.2118;311.21;311.21
+387;C20H26N2O;Ibogaine (7611746235002);;;;x;311.2118;311.21;311.21
+1 064;C19H21NO3;Thebaine (7611746114000);Heroin alcaloid;;x;x;312.1594;312.16;312.16
+735;C21H29NO;Dimepheptanol (7611746035008);;;;x;312.2322;312.23;312.23
+109;C21H29NO;Betamethadol (7611746014003);;;;x;312.2322;312.23;312.23
+103;C21H29NO;Alphamethadol (7611746007005);;;;x;312.2322;312.23;312.23
+54;C21H29NO;UR-144 (T. e 73);"(EWA; Synthetic cannabinoids)";x;;x;312.2322;312.23;312.23
+52;C20H28N2O;(1-Pentyl-1H-indazol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone;"(EWA; Synthetic cannabinoids)";x;;;313.2274;313.23;313.23
+759;C16H10ClN2O3;Clorazepate (7611746224006);;;;x;314.0453;314.04;314.05
+701;C16H12FN3O3;Flunitrazepam (7611746190004);;;;x;314.0935;314.09;314.10
+148;C18H19NO4;Isoboldine;Heroin alkaloid;;x;;314.1387;314.14;314.14
+76;C18H19NO4;6-Acetylnormorphine;Heroin impurity;;x;;314.1387;314.14;314.14
+1 079;C19H23NO3;Ethylmorphine (7611746043003);;;;x;314.1751;314.17;314.18
+963;C19H27N3O;NDTDI;"(EWA; Other substances)";x;;;314.2227;314.22;314.22
+130;C19H27N3O;Mepirapim;"(EWA; Synthetic cannabinoids)";x;;;314.2227;314.22;314.22
+626;C15H11BrN2O;Mebroqualone;"(EWA; Other substances)";x;;;315.0128;315.01;315.01
+254;C13H19BrN2O2;1-(4-Bromo-2,5-dimethoxybenzyl)piperazine;"(EWA; Piperazines)";x;;;315.0703;315.07;315.07
+602;C21H30O2;CBC;Phytocannabinoids;;x;;315.2319;315.23;315.23
+575;C21H30O2;(+)-trans-CBD;Phytocannabinoids;;x;;315.2319;315.23;315.23
+574;C21H30O2;(-)-trans-CBD;Phytocannabinoids;;x;;315.2319;315.23;315.23
+150;C21H30O2;(+)-trans-?9-THC (7611746155003);Phytocannabinoids;;;x;315.2319;315.23;315.23
+140;C21H30O2;(-)-trans-?9-THC (7611746155010);Phytocannabinoids;;;x;315.2319;315.23;315.23
+139;C21H30O2;(-)-trans-?8-THC (7611746155003);Phytocannabinoids;;;x;315.2319;315.23;315.23
+751;C14H10BrN3O;Bromazepam (7611746170006);;;;x;316.0080;316.01;316.01
+308;C13H18BrNOS;5-Bromo-alpha-PVT;"(EWA; Other substances)";x;;;316.0365;316.03;316.04
+700;C15H10ClN3O3;Clonazepam (7611746176008);;;;x;316.0483;316.05;316.05
+702;C15H10FN3O4;Nifoxipam (T.e 203);"(EWA; Other substances)";x;;x;316.0728;316.07;316.07
+1 061;C18H21NO4;Oxycodone (7611746092001);;;;x;316.1543;316.15;316.16
+75;C18H21NO4;Codeine-N-oxide (7611746023005);;;;x;316.1543;316.15;316.16
+449;C19H25NO3;25D-NBOMe (T.e 111);"(EWA; Phenethylamines)";x;;x;316.1907;316.19;316.19
+233;C19H25NO3;3,4-DMA-NBOMe;"(EWA; Phenethylamines)";x;;;316.1907;316.19;316.19
+577;C21H32O2;CBG;Phytocannabinoids;;x;;317.2475;317.25;317.25
+842;C17H19NO5;N-formylnorcocaine;Cocain impurity;;x;;318.1336;318.13;318.14
+605;C19H27NO3;2-morpholinoethyl 1-phenylcyclohexane-1-carboxylate;"(EWA; Other substances)";x;;;318.2064;318.20;318.21
+770;C16H12Cl2N2O;4-chlorodiazepam;"(EWA; Other substances)";x;;;319.0399;319.04;319.04
+765;C16H12Cl2N2O;Diclazepam (T.e 134);"(EWA; Other substances)";x;;x;319.0399;319.04;319.04
+699;C16H15ClN2OS;Clotiazepam (7611746177005);;;;x;319.0666;319.07;319.07
+1 053;C21H34O2;CP-47,497;"(EWA; Synthetic cannabinoids)";x;;;319.2632;319.26;319.26
+477;C21H34O2;CP 47,497 (7611746990963);;;;x;319.2632;319.26;319.26
+404;C17H13N5O2;Nitrazolam;"(EWA; Other substances)";x;;;320.1142;320.11;320.12
+193;C22H25NO;JWH-251;"(EWA; Synthetic cannabinoids)";x;;;320.2009;320.20;320.20
+766;C15H10Cl2N2O2;Lorazepam (7611746228004);;;;x;321.0192;321.02;321.02
+763;C16H11ClF2N2O;Ro-07-4065;"(EWA; Other substances)";x;;;321.0601;321.06;321.06
+1 104;C19H14NO4;Coptisine;Heroin alcaloid;;x;;321.0996;321.10;321.10
+999;C21H24N2O;SDB-006;"(EWA; Synthetic cannabinoids)";x;;;321.1961;321.19;321.20
+296;C11H16INO2;2,5-Dimethoxy-4-iodoamphetamine;"(EWA; Phenethylamines)";x;;;322.0299;322.03;322.03
+676;C17H17Cl2NO;Diclofensine;"(EWA; Other substances)";x;;;322.0760;322.07;322.08
+429;C17H20ClNO3;25C-NBOH (T.e 152);"(EWA; Phenethylamines)";x;;x;322.1204;322.12;322.12
+480;C21H23NO2;2-(3-methoxyphenyl)-1-(1-pentyl-indol-3-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;322.1802;322.18;322.18
+125;C21H23NO2;RCS-4 (T.e 44);"(EWA; Synthetic cannabinoids)";x;;x;322.1802;322.18;322.18
+113;C21H23NO2;3-(4-Hydroxymethylbenzoyl)-1-pentylindole;"(EWA; Synthetic cannabinoids)";x;;;322.1802;322.18;322.18
+84;C21H23NO2;RCS-4 ortho isomer;"(EWA; Synthetic cannabinoids)";x;;;322.1802;322.18;322.18
+815;C18H27NO4;Etoxeridine (7611746046004);;;;x;322.2013;322.20;322.20
+65;C22H27NO;Phenazocine (7611746099000);;;;x;322.2165;322.21;322.22
+712;C18H18N4O2;Mesocarb (7611746229001);;;;x;323.1503;323.15;323.15
+910;C21H26N2O;Benzylfentanyl;"(EWA; Other substances)";x;;;323.2118;323.21;323.21
+3;C21H26N2O;Acetylfentanyl (7611746960522);"(EWA; Other substances)";x;;x;323.2118;323.21;323.21
+435;C16H15F2NO2S;2-{[bis(4-fluorophenyl)methyl]sulfinyl}-N-methylacetamide;"(EWA; Other substances)";x;;;324.0864;324.08;324.09
+490;C17H19ClFNO2;25C-NBF (T.e 144);"(EWA; Phenethylamines)";x;;x;324.1161;324.11;324.12
+36;C21H22FNO;1-(5-fluoropentyl)-3-(2-methylbenzoyl)indole;"(EWA; Synthetic cannabinoids)";x;;;324.1758;324.17;324.18
+693;C21H25NO2;PEPAP (7611746100003);;;;x;324.1958;324.19;324.20
+1 107;C20H25N3O;LSD (7611746143000);;;;x;324.2070;324.21;324.21
+1 105;C19H16O5;4,6-Diacetoxy-3-methoxyphenanthrene;Heroin impurity;;x;;325.1071;325.11;325.11
+753;C19H17ClN2O;Prazepam (7611746218005);;;;x;325.1102;325.11;325.11
+318;C20H21FN2O;LTI-701;"(EWA; Synthetic cannabinoids)";x;;;325.1711;325.17;325.17
+977;C21H28N2O;Diampromide (7611746029007);;;;x;325.2274;325.23;325.23
+434;C15H13F2NO3S;Fladrafinil (T.e 177);"(EWA; Other substances)";x;;x;326.0657;326.06;326.07
+458;C15H20BrNO2;2-(2-Bromo,5-methoxyphenyl)-2-(ethylamino)cyclohexanone;"(EWA; Phencyclidine-type substances)";x;;;326.0750;326.07;326.08
+784;C18H13ClFN3;Midazolam (7611746207009);;;;x;326.0855;326.08;326.09
+609;C18H19N3O3;RH-34 (T.e 126);"(EWA; Synthetic cannabinoids)";x;;x;326.1499;326.15;326.15
+77;C17H15ClN4O;{2-[3-(aminomethyl)-5-methyl-4H-1,2,4-triazol-4-yl]-5-chlorophenyl}(phenyl)methanone;"(EWA; Other substances)";x;;;327.1007;327.10;327.10
+868;C16H19Cl2NO2;methyl 3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate;"(EWA; Other substances)";x;;;328.0866;328.08;328.09
+1 088;C19H21NO4;3-MAM;Heroin impurity;;x;;328.1543;328.15;328.16
+1 080;C19H21NO4;6-MAM;Heroin impurity;;x;;328.1543;328.15;328.16
+685;C19H21NO4;Salutaridine;Heroin alkaloid;;x;;328.1543;328.15;328.16
+149;C19H21NO4;(S)-corytuberine;Heroin alcaloid;;x;;328.1543;328.15;328.16
+583;C23H21NO;JWH-073 (7611746990901);"(EWA; Synthetic cannabinoids)";x;;x;328.1696;328.17;328.17
+86;C23H21NO;JWH-015 (T.e 35);"(EWA; Synthetic cannabinoids)";x;;x;328.1696;328.17;328.17
+525;C20H25NO3;Dimenoxadol (7611746034001);;;;x;328.1907;328.19;328.19
+427;C24H25N;JWH-175;"(EWA; Synthetic cannabinoids)";x;;;328.2060;328.20;328.21
+674;C16H13ClN4S;Metizolam;"(EWA; Other substances)";x;;;329.0622;329.06;329.06
+385;C18H17ClN2O2;Oxazolam (7611746212003);;;;x;329.1051;329.10;329.11
+636;C16H22Cl2N2O;AH-7921 (7611746960867);"(EWA; Other substances)";x;;x;329.1182;329.12;329.12
+635;C16H22Cl2N2O;U-47700 (7611746958109);;;;x;329.1182;329.12;329.12
+633;C16H22Cl2N2O;U-47700;"(EWA; Other substances)";x;;;329.1182;329.12;329.12
+657;C22H32O2;Parahexyl (7611746149002);;;;x;329.2475;329.25;329.25
+164;C16H12ClN3O3;Meclonazepam;"(EWA; Other substances)";x;;;330.0640;330.06;330.07
+873;C19H23NO4;Cis-cinnamoylcocaine (CIS);Cocain alkaloid;;x;;330.1700;330.17;330.17
+872;C19H23NO4;Trans-cinnamoylcocaine (TRANS);Cocain alkaloid;;x;;330.1700;330.17;330.17
+497;C20H27NO3;25E-NBOMe (T.e 151);"(EWA; Phenethylamines)";x;;x;330.2064;330.20;330.21
+444;C20H27NO3;25G-NBOMe;"(EWA; Phenethylamines)";x;;;330.2064;330.20;330.21
+172;C21H28FNO;XLR-11 (7611746960737);"(EWA; Synthetic cannabinoids)";x;;x;330.2228;330.22;330.22
+19;C21H28FNO;XLR-11 N-(4-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;330.2228;330.22;330.22
+15;C21H28FNO;XLR-11 N-(3-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;330.2228;330.22;330.22
+10;C21H28FNO;XLR-11 N-(2-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;330.2228;330.22;330.22
+684;C21H31NO2;4-Hydroxy-3,3,4-trimethyl-1-(1-pentyl-1H-indol-3-yl)pentan-1-one;"(EWA; Synthetic cannabinoids)";x;;;330.2428;330.24;330.24
+908;C18H26N4O2;AB-PINACA (T. e 119);"(EWA; Synthetic cannabinoids)";x;;x;331.2129;331.21;331.21
+30;C20H27FN2O;5F-UR-144 indazole;"(EWA; Synthetic cannabinoids)";x;;;331.2180;331.22;331.22
+871;C18H21NO5;N-acetylnorcocaine;Cocain impurity;;x;;332.1492;332.15;332.15
+750;C15H10BrFN2O;Flubromazepam (T.e 136);"(EWA; Other substances)";x;;x;333.0033;333.00;333.00
+1 052;C22H36O2;CP-47,497-C8;"(EWA; Synthetic cannabinoids)";x;;;333.2788;333.28;333.28
+476;C22H36O2;CP 47,497-C8-homologues (7611746990949);;;;x;333.2788;333.28;333.28
+431;C22H36O2;2-[(1S,3S)-3-hydroxycyclohexyl]-5-(2-methylnonan-2-yl)phenol;"(EWA; Synthetic cannabinoids)";x;;;333.2788;333.28;333.28
+1 094;C19H27NO4;Drotebanol (7611746040002);;;;x;334.2013;334.20;334.20
+767;C16H12Cl2N2O2;Lormetazepam (7611746200000);;;;x;335.0349;335.03;335.04
+1 032;C22H26N2O;Acrylfentanyl;"(EWA; Other substances)";x;;;335.2118;335.21;335.21
+396;C22H26N2O;CUMYL-BICA;"(EWA; Synthetic cannabinoids)";x;;;335.2118;335.21;335.21
+493;C18H22ClNO3;25C-NB4OMe;"(EWA; Phenethylamines)";x;;;336.1361;336.13;336.14
+491;C18H22ClNO3;25C-NBOMe (7611746963899);"(EWA; Phenethylamines)";x;;x;336.1361;336.13;336.14
+971;C15H27Cl2N3O;Lisdexamphetamine (7611764965442);;;;x;336.1604;336.16;336.16
+794;C22H25NO2;JWH-250 (7611746990895);"(EWA; Synthetic cannabinoids)";x;;x;336.1958;336.19;336.20
+506;C22H25NO2;JWH-201;"(EWA; Synthetic cannabinoids)";x;;;336.1958;336.19;336.20
+479;C22H25NO2;JWH-302;"(EWA; Synthetic cannabinoids)";x;;;336.1958;336.19;336.20
+2;C21H25N3O;Lysergic acid, 2,4-dimethylazetide;"(EWA; Other substances)";x;;;336.2070;336.21;336.21
+678;C23H29NO;Norpipanone (7611746090007);;;;x;336.2322;336.23;336.23
+595;C10H10Br2O3;2-Bromo-1-(4-bromo-2,5-dimethoxyphenyl)-ethanone;"(EWA; Other substances)";x;;;338.9049;338.90;338.91
+1 029;C22H28N2O;acetyl-alpha-methylfentanyl (7611746240006);;;;x;337.2274;337.23;337.23
+732;C17H12FN5O2;Flunitrazolam;"(EWA; Other substances)";x;;;338.1048;338.10;338.11
+99;C20H21N2O3;URB597 (T.e 76);"(EWA; Synthetic cannabinoids)";x;;x;338.1625;338.16;338.16
+79;C22H24FNO;1-(5-fluoropentyl)-3-(2-ethylbenzoyl)indole;"(EWA; Synthetic cannabinoids)";x;;;338.1915;338.19;338.19
+748;C22H27NO2;Amineptine (7611746250005);;;;x;338.2115;338.21;338.21
+145;C21H27N3O;ETH-LAD (T.e 165);"(EWA; Other substances)";x;;x;338.2227;338.22;338.22
+998;C21H23FN2O;5F-SDB-006;"(EWA; Synthetic cannabinoids)";x;;;339.1867;339.19;339.19
+494;C21H22ClNO;JWH-206;"(EWA; Synthetic cannabinoids)";x;;;340.1463;340.14;340.15
+459;C21H22ClNO;JWH-203 (T.e 41);"(EWA; Synthetic cannabinoids)";x;;x;340.1463;340.14;340.15
+710;C20H21NO4;Canadine;Heroin alcaloid;;x;;340.1543;340.15;340.16
+229;C20H21NO4;Papaverine;Heroin alkaloid;;x;;340.1543;340.15;340.16
+988;C24H21NO;JWH-022;"(EWA; Synthetic cannabinoids)";x;;;340.1696;340.17;340.17
+667;C21H25NO3;Moramide intermediate (7611746076001);;;;x;340.1907;340.19;340.19
+740;C22H29NO2;Noracymethadol (7611746085003);;;;x;340.2271;340.23;340.23
+94;C22H29NO2;Propoxyphene (7611746027003);;;;x;340.2271;340.23;340.23
+8;C22H29NO2;1-(Tetrahydropyran-4-ylmethyl)-1H-indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone;"(EWA; Synthetic cannabinoids)";x;;;340.2271;340.23;340.23
+48;C23H33NO;UR-144 (N-heptyl analogue);"(EWA; Synthetic cannabinoids)";x;;;340.2635;340.26;340.27
+989;C23H20N2O;Naphthalen-1-yl(1-(pent-4-enyl)-1H-pyrrolo[2,3-b]pyridin-3-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;341.1648;341.16;341.17
+1 068;C20H23NO4;Thebacon (7611746113003);;;;x;342.1700;342.17;342.17
+659;C20H23NO4;Acetylcodeine;Heroin impurity;;x;;342.1700;342.17;342.17
+165;C24H23NO;JWH-018 (7611746990925);"(EWA; Synthetic cannabinoids)";x;;x;342.1852;342.18;342.19
+44;C24H23NO;JWH-073 (4-methylnaphthyl);"(EWA; Synthetic cannabinoids)";x;;;342.1852;342.18;342.19
+373;C18H23N5O2;Fenetylline (7611746120001);;;;x;342.1925;342.19;342.19
+783;C17H12Cl2N4;Triazolam (7611746222002);;;;x;343.0512;343.05;343.05
+675;C17H15ClN4S;Etizolam (7611746965459);"(EWA; Other substances)";x;;x;343.0779;343.08;343.08
+1 110;C12H22O11;Sucrose;Diluent;;x;;343.1235;343.12;343.13
+1 103;C12H22O11;Lactose;Diluent;;x;;343.1235;343.12;343.13
+1 102;C12H22O11;Maltose;Diluent;;x;;343.1235;343.12;343.13
+466;C17H24Cl2N2O;U-51,754;"(EWA; Other substances)";x;;;343.1338;343.13;343.14
+442;C17H24Cl2N2O;U-48800;"(EWA; Other substances)";x;;;343.1338;343.13;343.14
+992;C23H22N2O;1-?Naphthalenyl(1-?pentyl-?1H-?indazol-?3-?yl)-?methanone;"(EWA; Synthetic cannabinoids)";x;;;343.1805;343.18;343.18
+991;C23H22N2O;Naphthalen-1-yl(1-(pentyl-1H-benzo[d]imidazol-2-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;343.1805;343.18;343.18
+990;C23H22N2O;Naphthalen-1-yl-(1-pentyl-1H-7-azaindol-3-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;343.1805;343.18;343.18
+1 034;C20H26N2OS;Thiofentanyl (7611746115007);;;;x;343.1839;343.18;343.19
+1 082;C20H25NO4;Acetyldihydrocodeine (7611746001003);;;;x;344.1856;344.18;344.19
+711;C20H25NO4;dl-laudanidine;Heroin alkaloid;;x;;344.1856;344.18;344.19
+504;C21H29NO3;25iP-NBOMe;"(EWA; Phenethylamines)";x;;;344.2220;344.22;344.22
+453;C21H29NO3;25P-NBOMe;"(EWA; Phenethylamines)";x;;;344.2220;344.22;344.22
+897;C20H29N3O2;ADBICA;"(EWA; Synthetic cannabinoids)";x;;;344.2333;344.23;344.23
+841;C20H28N2O3;MMB-PICA;"(EWA; Synthetic cannabinoids)";x;;;345.2173;345.22;345.22
+896;C19H28N4O2;ADB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;345.2285;345.23;345.23
+25;C21H28ClNO;UR-144 N-(5-chloropentyl);"(EWA; Synthetic cannabinoids)";x;;;346.1932;346.19;346.19
+14;C21H28ClNO;UR-144 N-(3-chloropentyl);"(EWA; Synthetic cannabinoids)";x;;;346.1932;346.19;346.19
+840;C19H27N3O3;MMB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;346.2125;346.21;346.21
+839;C19H27N3O3;AMB;"(EWA; Synthetic cannabinoids)";x;;;346.2125;346.21;346.21
+451;C18H22N2O5;25N-NBOMe (T.e 150);"(EWA; Phenethylamines)";x;;x;347.1601;347.16;347.16
+817;C20H30N2O3;Morpheridine (7611746077008);;;;x;347.2329;347.23;347.23
+1 050;C23H38O2;CP-47,497-C9;"(EWA; Synthetic cannabinoids)";x;;;347.2945;347.29;347.30
+474;C23H38O2;CP 47,497-C9-homologues (7611746990932);;;;x;347.2945;347.29;347.30
+902;C19H26FN3O2;5F-AMBICA;"(EWA; Synthetic cannabinoids)";x;;;348.2082;348.21;348.21
+388;C24H29NO;Phenomorphan (7611746101000);;;;x;348.2322;348.23;348.23
+876;C15H10BrClN2O;Phenazepam (7611746965435);"(EWA; Other substances)";x;;x;348.9738;348.97;348.98
+384;C17H14Cl2N2O2;Cloxazolam (7611746178002);;;;x;349.0505;349.05;349.05
+901;C18H25FN4O2;5F-AB-PINACA (T. e 189);"(EWA; Synthetic cannabinoids)";x;;x;349.2034;349.20;349.21
+899;C18H25FN4O2;4F-AB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;349.2034;349.20;349.21
+898;C18H25FN4O2;AB-PINACA N-(2-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;349.2034;349.20;349.21
+915;C23H28N2O;cyclopropyl fentanyl;"(EWA; Other substances)";x;;;349.2274;349.23;349.23
+407;C23H28N2O;1-pentyl-N-(2-phenylpropan-2-yl)-1H-indole-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;349.2274;349.23;349.23
+397;C24H32N2;MT-45 (7611746958130);"(EWA; Piperazines)";x;;x;349.2638;349.26;349.27
+170;C21H23N3O2;MDA-19;"(EWA; Synthetic cannabinoids)";x;;;350.1863;350.18;350.19
+17;C23H24FNO;[1-(4-fluorobenzyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone;"(EWA; Synthetic cannabinoids)";x;;;350.1915;350.19;350.19
+406;C22H27N3O;CUMYL-PINACA;"(EWA; Synthetic cannabinoids)";x;;;350.2227;350.22;350.22
+144;C22H27N3O;AL-LAD (T. e 167);"(EWA; Other substances)";x;;x;350.2227;350.22;350.22
+792;C24H31NO;JWH-018 (adamantyl);"(EWA; Synthetic cannabinoids)";x;;;350.2478;350.25;350.25
+677;C24H31NO;Dipipanone (7611746039006);;;;x;350.2478;350.25;350.25
+1 030;C23H30N2O;alpha-Methylfentanyl (7611746068006);;;;x;351.2431;351.24;351.24
+975;C23H30N2O;3-methylfentanyl (7611746997795);;;;x;351.2431;351.24;351.24
+917;C23H30N2O;Isobutyryfentanyl;"(EWA; Other substances)";x;;;351.2431;351.24;351.24
+4;C23H30N2O;Butyrfentanyl (7611746958673);"(EWA; Other substances)";x;;x;351.2431;351.24;351.24
+327;C19H18ClN5;Adinazolam;"(EWA; Other substances)";x;;;352.1323;352.13;352.13
+78;C20H24F3NO;XLR-12;"(EWA; Synthetic cannabinoids)";x;;;352.1883;352.19;352.19
+734;C23H29NO2;Phenadoxone (7611746097006);;;;x;352.2271;352.23;352.23
+780;C17H13BrN4;Bromazolam;"(EWA; Other substances)";x;;;353.0396;353.04;353.04
+771;C17H12ClF3N2O;Halazepam (7611746193005);;;;x;353.0663;353.06;353.07
+1 059;C17H17ClO6;Griseofulvin;Adulterant;;x;;353.0786;353.08;353.08
+705;C24H20N2O;AM-2232 (T. e 65);"(EWA; Synthetic cannabinoids)";x;;x;353.1648;353.16;353.17
+974;C22H28N2O2;Betahydroxyfentanyl (7611746054009);;;;x;353.2224;353.22;353.22
+816;C22H28N2O2;Anileridine (7611746009009);;;;x;353.2224;353.22;353.22
+599;C22H28N2O2;Methoxyacetylfentanyl;"(EWA; Other substances)";x;;;353.2224;353.22;353.22
+9;C23H32N2O;AB-005 azepane isomer;"(EWA; Synthetic cannabinoids)";x;;;353.2587;353.26;353.26
+6;C23H32N2O;AB-005;"(EWA; Synthetic cannabinoids)";x;;;353.2587;353.26;353.26
+779;C16H12BrN5;Pyrazolam (T.e 135);"(EWA; Other substances)";x;;x;354.0349;354.03;354.04
+731;C17H12ClN5O2;Clonazolam (T. e 201);"(EWA; Other substances)";x;;x;354.0752;354.07;354.08
+1 106;C20H19NO5;Protopine;Heroin alkaloid;;x;;354.1336;354.13;354.14
+136;C20H19NO5;Papaveraldine;Heroin impurity;;x;;354.1336;354.13;354.14
+128;C25H23NO;JWH-122 N-(4-pentenyl);"(EWA; Synthetic cannabinoids)";x;;;354.1852;354.18;354.19
+938;C21H24FN3O;N-{2-[4-(dimethylamino)phenyl]ethyl}-3-ethyl-5-fluoro-1H-indole-2-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;354.1976;354.20;354.20
+825;C22H27NO3;Dioxaphetyl butyrate (7611746037002);;;;x;354.2064;354.20;354.21
+737;C23H31NO2;Acetylmethadol (7611746002000);;;;x;354.2428;354.24;354.24
+111;C23H31NO2;LAAM (7611746236009);;;;x;354.2428;354.24;354.24
+110;C23H31NO2;Betacetylmethadol (7611746012009);;;;x;354.2428;354.24;354.24
+104;C23H31NO2;Alphacetylmethadol (7611746005001);;;;x;354.2428;354.24;354.24
+399;C22H26O4;CBN acid;Phytocannabinoids;;x;;355.1904;355.19;355.19
+944;C22H27FN2O;Parafluorofentanyl (7611746048008);;;;x;355.2180;355.22;355.22
+937;C22H27FN2O;3-Fluorofentanyl;"(EWA; Other substances)";x;;;355.2180;355.22;355.22
+933;C22H27FN2O;2-fluorofentanyl;"(EWA; Other substances)";x;;;355.2180;355.22;355.22
+909;C22H27FN2O;(Iso)butyryl-F-fentanyl N-benzyl analogue;"(EWA; Other substances)";x;;;355.2180;355.22;355.22
+154;C22H30N2O2;(E)-3,4,4-trimethyl-1-(1-(2-morpholinoethyl)-1H-indol-3-yl)pent-2-en-1-one;"(EWA; Synthetic cannabinoids)";x;;;355.2380;355.24;355.24
+12;C22H30N2O2;A-796,260 (T.e 69);"(EWA; Synthetic cannabinoids)";x;;x;355.2380;355.24;355.24
+1 096;C20H21NO5;N,6-Diacetylnormorphine;Heroin impurity;;x;;356.1492;356.15;356.15
+161;C21H25NO4;Glaucine;"(EWA; Other substances)";x;;;356.1856;356.18;356.19
+134;C25H25NO;JWH-122 (5-Methyl-naphtyl isomer);"(EWA; Synthetic cannabinoids)";x;;;356.2009;356.20;356.20
+129;C25H25NO;JWH-122 (T.e 38);"(EWA; Synthetic cannabinoids)";x;;x;356.2009;356.20;356.20
+85;C25H25NO;JWH-007;"(EWA; Synthetic cannabinoids)";x;;;356.2009;356.20;356.20
+50;C25H25NO;JWH-019 (7611746990918);"(EWA; Synthetic cannabinoids)";x;;x;356.2009;356.20;356.20
+1 013;C21H29N3S;N,N-Diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine;"(EWA; Synthetic cannabinoids)";x;;;356.2155;356.21;356.22
+906;C21H29N3O2;AB-CHMICA;"(EWA; Synthetic cannabinoids)";x;;;356.2333;356.23;356.24
+634;C18H26Cl2N2O;3,4-dichloro-N-(2-(diethylamino)cyclohexyl)-N-methylbenzamide;"(EWA; Other substances)";x;;;357.1495;357.15;357.15
+958;C24H24N2O;MN-24;"(EWA; Synthetic cannabinoids)";x;;;357.1961;357.19;357.20
+1 033;C21H28N2OS;Alphamethylthiofentanyl (7611746071006);;;;x;357.1995;357.20;357.20
+978;C21H28N2OS;3-Methylthiofentanyl (7611746072003);;;;x;357.1995;357.20;357.20
+905;C20H28N4O2;AB-CHMINACA (T. e 170);"(EWA; Synthetic cannabinoids)";x;;x;357.2285;357.23;357.23
+168;C20H28N4O2;AB-CHMINACA 2’-indazole isomer;"(EWA; Synthetic cannabinoids)";x;;;357.2285;357.23;357.23
+987;C24H23NO2;CBL-018;"(EWA; Synthetic cannabinoids)";x;;;358.1802;358.18;358.18
+40;C24H23NO2;JWH-018 N-(5-hydroxypentyl);"(EWA; Synthetic cannabinoids)";x;;;358.1802;358.18;358.18
+960;C23H23N3O;NNEI 2’-indazole isomer;"(EWA; Synthetic cannabinoids)";x;;;358.1914;358.19;358.19
+959;C23H23N3O;N-(naphthalen-1-yl)-1-pentyl-1H-pyrrolo[2,3-b]pyridine-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;358.1914;358.19;358.19
+957;C23H23N3O;N-(Naphthalen-1-yl)-1-pentyl-1H-indazol-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;358.1914;358.19;358.19
+408;C23H23N3O;1-Pentyl-N-(quinolin-8-yl)-1H-indole-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;358.1914;358.19;358.19
+162;C21H27NO4;2C-I (7611746137023);"(EWA; Phenethylamines)";x;;x;358.2013;358.20;358.20
+72;C21H27NO4;Codamine;Heroin alcaloid;;x;;358.2013;358.20;358.20
+69;C21H27NO4;(+)-Laudanosine;Heroin alcaloid;;x;;358.2013;358.20;358.20
+939;C18H19BrN2O;5-methoxy-N-bromobenzyltryptamine;"(EWA; Tryptamines)";x;;;359.0754;359.07;359.08
+1 048;C23H22N2O2;PB-22 (T.e 106);"(EWA; Synthetic cannabinoids)";x;;x;359.1754;359.17;359.18
+986;C23H22N2O2;SDB-005;"(EWA; Synthetic cannabinoids)";x;;;359.1754;359.17;359.18
+881;C20H26N2O2S;beta-Hydroxythiofentanyl;"(EWA; Other substances)";x;;;359.1788;359.18;359.18
+722;C22H30O4;CBC acid;Phytocannabinoids;;;;359.2217;359.22;359.22
+572;C22H30O4;CBD acid;Phytocannabinoids;;x;;359.2217;359.22;359.22
+571;C22H30O4;CBD acid;Phytocannabinoids;;x;;359.2217;359.22;359.22
+138;C22H30O4;THCA (7611746155010);Phytocannabinoids;;x;;359.2217;359.22;359.22
+1 047;C22H21N3O2;INPB-22;"(EWA; Synthetic cannabinoids)";x;;;360.1707;360.17;360.17
+171;C24H22FNO;AM-2201 (7611746960690);"(EWA; Synthetic cannabinoids)";x;;x;360.1758;360.17;360.18
+122;C24H22FNO;JWH-412;"(EWA; Synthetic cannabinoids)";x;;;360.1758;360.17;360.18
+21;C24H22FNO;AM-2201 N-(4-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;360.1758;360.17;360.18
+828;C18H14ClFN2O3;Ethyl loflazepate (7611746185000);;;;x;361.0750;361.07;361.08
+31;C23H21FN2O;THJ-2201 (T. e 142);"(EWA; Synthetic cannabinoids)";x;;x;361.1711;361.17;361.17
+29;C23H21FN2O;FUBIMINA;"(EWA; Synthetic cannabinoids)";x;;;361.1711;361.17;361.17
+273;C22H24N4O;CUMYL-4CN-B7AICA;"(EWA; Synthetic cannabinoids)";x;;;361.2023;361.20;361.20
+272;C22H24N4O;CUMYL-4CNBINACA;"(EWA; Synthetic cannabinoids)";x;;;361.2023;361.20;361.20
+646;C22H32O4;CBG acid;Phytocannabinoids;;x;;361.2373;361.24;361.24
+1 054;C24H40O2;Dimethyl CP-47,497-C8;"(EWA; Synthetic cannabinoids)";x;;;361.3101;361.31;361.31
+456;C20H27NO5;25H-NBOMe (3,4,5-trimethoxybenzyl analogue);"(EWA; Phenethylamines)";x;;;362.1962;362.19;362.20
+441;C20H27NO5;2-(2,3-dimethoxyphenyl)-N-(3,4,5-trimethoxybenzyl)ethan-1-amine;"(EWA; Phenethylamines)";x;;;362.1962;362.19;362.20
+478;C24H27NO2;Levophenacylmorphan (7611746061007);;;;x;362.2115;362.21;362.21
+893;C20H28FN3O2;5F-ADBICA;"(EWA; Synthetic cannabinoids)";x;;;362.2238;362.22;362.23
+827;C21H31NO4;Furethidine (7611746049005);;;;x;362.2326;362.23;362.23
+135;C23H39NO2;AM-356;"(EWA; Synthetic cannabinoids)";x;;;362.3054;362.30;362.31
+836;C20H27FN2O3;5F-MMB-PICA;"(EWA; Synthetic cannabinoids)";x;;;363.2078;363.21;363.21
+892;C19H27FN4O2;5F-ADB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;363.2191;363.22;363.22
+835;C19H26FN3O3;5F-AMB;"(EWA; Synthetic cannabinoids)";x;;;364.2031;364.20;364.20
+749;C15H10BrClN2O2;3-hydroxyphenazepam;"(EWA; Other substances)";x;;;384.9887;384.99;384.99
+900;C18H25ClN4O2;5-Cl-AB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;365.1739;365.17;365.18
+953;C24H32N2O;APICA;"(EWA; Synthetic cannabinoids)";x;;;365.2587;365.26;365.26
+808;C24H32N2O;Valerylfentanyl;"(EWA; Other substances)";x;;;365.2587;365.26;365.26
+428;C17H20BrNO3;25B-NBOH;"(EWA; Phenethylamines)";x;;;366.0699;366.07;366.07
+142;C22H27N3O2;ALD-52;"(EWA; Other substances)";x;;;366.2176;366.22;366.22
+952;C23H31N3O;APINACA;"(EWA; Synthetic cannabinoids)";x;;;366.2540;366.25;366.26
+311;C23H27FN2O;CUMYL-5F-PICA;"(EWA; Synthetic cannabinoids)";x;;;367.2180;367.22;367.22
+973;C23H30N2O2;Ohmefentanyl (7611746055006);;;;x;367.2380;367.24;367.24
+812;C23H30N2O2;Piminodine (7611746104001);;;;x;367.2380;367.24;367.24
+788;C23H30N2O2;AKB-57;"(EWA; Synthetic cannabinoids)";x;;;367.2380;367.24;367.24
+115;C22H30N4O;NSI-189;"(EWA; Other substances)";x;;;367.2492;367.25;367.25
+485;C17H19BrFNO2;25B-NBF (T.e 145);"(EWA; Phenethylamines)";x;;x;368.0656;368.06;368.07
+995;C26H25NO;JWH-145;"(EWA; Synthetic cannabinoids)";x;;;368.2009;368.20;368.20
+41;C26H25NO;JWH-018 (cyclohexylmethyl);"(EWA; Synthetic cannabinoids)";x;;;368.2009;368.20;368.20
+312;C22H26FN3O;CUMYL-5F-P7AICA;"(EWA; Synthetic cannabinoids)";x;;;368.2133;368.21;368.22
+310;C22H26FN3O;CUMYL-5F-PINACA;"(EWA; Synthetic cannabinoids)";x;;;368.2133;368.21;368.22
+818;C23H29NO3;Benzethidine (7611746010005);;;;x;368.2220;368.22;368.22
+814;C23H29NO3;Phenoperidin (7611746102007);;;;x;368.2220;368.22;368.22
+791;C24H30FNO;5F-AB-001;"(EWA; Synthetic cannabinoids)";x;;;368.2384;368.24;368.24
+386;C20H17ClN2O3;Ketazolam (7611746195009);;;;x;369.1000;369.10;369.10
+167;C20H21FN4O2;AB-FUBINACA (T. e 118);"(EWA; Synthetic cannabinoids)";x;;x;369.1721;369.17;369.17
+166;C20H21FN4O2;AB-FUBINACA 2-fluorobenzyl isomer;"(EWA; Synthetic cannabinoids)";x;;;369.1721;369.17;369.17
+996;C26H24O2;CB-13 (T.e 72);"(EWA; Synthetic cannabinoids)";x;;x;369.1849;369.18;369.19
+943;C23H29FN2O;para-Fluoroisobutyrfentanyl;"(EWA; Other substances)";x;;;369.2337;369.23;369.24
+942;C23H29FN2O;4-Fluorobutyrfentanyl;"(EWA; Other substances)";x;;;369.2337;369.23;369.24
+698;C19H16ClN3O3;Cloniprazepam;"(EWA; Other substances)";x;;;370.0953;370.09;370.10
+1 100;C21H23NO5;Cryptopine;Heroin alcaloid;;x;;370.1649;370.16;370.17
+1 075;C21H23NO5;Heroin (7611746050001);;;;x;370.1649;370.16;370.17
+119;C26H27NO;JWH-210 (T.e 42);"(EWA; Synthetic cannabinoids)";x;;x;370.2165;370.21;370.22
+49;C26H27NO;JWH-020;"(EWA; Synthetic cannabinoids)";x;;;370.2165;370.21;370.22
+895;C22H31N3O2;ADB-CHMICA;"(EWA; Synthetic cannabinoids)";x;;;370.2489;370.25;370.25
+781;C17H12BrFN4;flubromazolam (T.e 176);"(EWA; Other substances)";x;;x;371.0302;371.03;371.03
+932;C22H27FN2O2;Ocfentanil (T.e 202);"(EWA; Other substances)";x;;x;371.2129;371.21;371.21
+838;C22H30N2O3;MMB-CHMICA (T.e 188);"(EWA; Synthetic cannabinoids)";x;;x;371.2329;371.23;371.23
+894;C21H30N4O2;ADB-CHMINACA (T. e 171);"(EWA; Synthetic cannabinoids)";x;;x;371.2442;371.24;371.25
+755;C19H18ClN3O3;Camazepam (7611746172000);;;;x;372.1109;372.11;372.11
+123;C25H25NO2;JWH-081 (T.e 192);"(EWA; Synthetic cannabinoids)";x;;x;372.1958;372.19;372.20
+83;C25H25NO2;JWH-267;"(EWA; Synthetic cannabinoids)";x;;;372.1958;372.19;372.20
+39;C25H25NO2;JWH-122 N-(5-hydroxypentyl);"(EWA; Synthetic cannabinoids)";x;;;372.1958;372.19;372.20
+22;C25H25NO2;MAM-2201 N-(4-hydroxypentyl);"(EWA; Synthetic cannabinoids)";x;;;372.1958;372.19;372.20
+837;C21H29N3O3;AMB-CHMINACA;"(EWA; Synthetic cannabinoids)";x;;;372.2282;372.23;372.23
+1 055;C20H24N2O5;Codoxime (7611746024002);;;;x;373.1758;373.17;373.18
+594;C23H24N4O;3-(5-Benzyl-1,3,4-oxadiazol-2-yl)-1-(2-pyrrolidin-1-ylethyl)-1H-indole;"(EWA; Synthetic cannabinoids)";x;;;373.2023;373.20;373.20
+727;C25H28N2O;CUMYL-PeGACLONE;"(EWA; Synthetic cannabinoids)";x;;;373.2274;373.23;373.23
+35;C25H24FNO;MAM-2201 (T.e 68);"(EWA; Synthetic cannabinoids)";x;;x;374.1915;374.19;374.19
+20;C25H24FNO;MAM-2201 N-(4-Fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;374.1915;374.19;374.19
+16;C25H24FNO;MAM-2201 N-(3-Fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;374.1915;374.19;374.19
+11;C25H24FNO;MAM-2201 N-(2-Fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;374.1915;374.19;374.19
+457;C21H27ClN2O2;Hydroxyzine;Adulterant;;x;;375.1834;375.18;375.19
+316;C24H23FN2O;AM-6527 (N-5-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;375.1867;375.18;375.19
+314;C24H23FN2O;5F-MN-24;"(EWA; Synthetic cannabinoids)";x;;;375.1867;375.18;375.19
+916;C24H26N2O2;Furanylfentanyl;"(EWA; Other substances)";x;;;375.2067;375.20;375.21
+117;C24H22ClNO;JWH-398;"(EWA; Synthetic cannabinoids)";x;;;376.1463;376.14;376.15
+28;C24H22ClNO;JWH-018 N-(5-chloropentyl);"(EWA; Synthetic cannabinoids)";x;;;376.1463;376.14;376.15
+984;C24H22FNO2;Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate;"(EWA; Synthetic cannabinoids)";x;;;376.1707;376.17;376.17
+315;C23H22FN3O;5F-PCN;"(EWA; Synthetic cannabinoids)";x;;;376.1820;376.18;376.18
+313;C23H22FN3O;5F-MN-18 (T.e 183);"(EWA; Synthetic cannabinoids)";x;;x;376.1820;376.18;376.18
+1 077;C24H25NO3;Benzylmorphine (7611746011002);;;;x;376.1907;376.19;376.19
+174;C25H29NO2;RCS-8 (T.e 47);"(EWA; Synthetic cannabinoids)";x;;x;376.2271;376.23;376.23
+383;C17H14BrFN2O2;Haloxazolam (7611746194002);;;;x;377.0295;377.03;377.03
+169;C19H21ClN2O2S;W-15 (T.e 115);"(EWA; Synthetic cannabinoids)";x;;x;377.1085;377.11;377.11
+1 043;C23H21FN2O2;5F-PB-22;"(EWA; Synthetic cannabinoids)";x;;;377.1660;377.16;377.17
+1 038;C23H21FN2O2;PB-22 N-(2-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;377.1660;377.16;377.17
+983;C23H21FN2O2;5F-SDB-005;"(EWA; Synthetic cannabinoids)";x;;;377.1660;377.16;377.17
+317;C22H21FN4O;1-?(5-?fluoropentyl)-?N-?(quinolin-?8-?yl)-?1H-?indazole-?3-?carboxamide;"(EWA; Synthetic cannabinoids)";x;;;377.1772;377.18;377.18
+852;C20H28N2O5;Remifentanil (7611746340003);;;;x;377.2071;377.21;377.21
+463;C24H28N2O2;Cannabipiperidiethanone;"(EWA; Synthetic cannabinoids)";x;;;377.2224;377.22;377.22
+860;C21H29FN2O3;5F-MDMB-PICA;"(EWA; Synthetic cannabinoids)";x;;;377.2235;377.22;377.23
+914;C25H32N2O;cyclopentylfentanyl;"(EWA; Other substances)";x;;;377.2587;377.26;377.26
+1 049;C24H40O3;CP-55,940;"(EWA; Synthetic cannabinoids)";x;;;377.3050;377.30;377.31
+985;C26H19NO2;Naphthalen-1-yl-1-benzyl-1H-indole-3-carboxylate;"(EWA; Synthetic cannabinoids)";x;;;378.1489;378.15;378.15
+393;C25H19N3O;1-Benzyl-N-(quinolin-8-yl)-1H-indole-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;378.1601;378.16;378.16
+1 042;C22H20FN3O2;5F-INPB-22;"(EWA; Synthetic cannabinoids)";x;;;378.1612;378.16;378.16
+1 041;C22H20FN3O2;Quinolin-8-yl 1-(4-fluoropentyl)-1H-indazole-3-carboxylate;"(EWA; Synthetic cannabinoids)";x;;;378.1612;378.16;378.16
+1 037;C22H20FN3O2;Quinolin-8-yl 1-(2-fluoropentyl)-1H-indazole-3-carboxylate;"(EWA; Synthetic cannabinoids)";x;;;378.1612;378.16;378.16
+121;C24H21F2NO;JWH-412 N-(-5-fluoropentyl);"(EWA; Synthetic cannabinoids)";x;;;378.1664;378.16;378.17
+936;C23H27N3O2;N-(2-phenylpropan-2-yl)-1-((tetrahydro-2H-pyran-4-yl)methyl)-1H-indazole-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;378.2176;378.22;378.22
+861;C20H28FN3O3;5F-MDMB-P4AICA;"(EWA; Synthetic cannabinoids)";x;;;378.2187;378.22;378.22
+859;C20H28FN3O3;5F-MDMB-PINACA (T. e 182);"(EWA; Synthetic cannabinoids)";x;;x;378.2187;378.22;378.22
+823;C20H28FN3O3;5F-EMB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;378.2187;378.22;378.22
+1 046;C25H18N2O2;1-(Phenylmethyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester;"(EWA; Synthetic cannabinoids)";x;;;379.1441;379.14;379.15
+392;C24H18N4O;1-Benzyl-N-(quinolin-8-yl)-1H-indazole-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;379.1553;379.15;379.16
+126;C23H26N2O3;WIN 48,098;"(EWA; Synthetic cannabinoids)";x;;;379.2016;379.20;379.20
+918;C24H30N2O2;Tetrahydrofuranylfentanyl;"(EWA; Other substances)";x;;;379.2380;379.24;379.24
+71;C18H22BrNO3;S-(+)-Reticuline;Heroin alkaloid;;x;;380.0856;380.08;380.09
+68;C18H22BrNO3;25B-NBOMe (7611746964520);"(EWA; Phenethylamines)";x;;x;380.0856;380.08;380.09
+1 045;C24H17N3O2;Quinolin-8-yl-1-benzyl-1H-indazole-3-carboxylate;"(EWA; Synthetic cannabinoids)";x;;;380.1394;380.14;380.14
+18;C26H18FNO;FUB-JWH-018;"(EWA; Synthetic cannabinoids)";x;;;380.1445;380.14;380.15
+964;C23H29N3O2;1p-LSD (T.e 164);"(EWA; Other substances)";x;;x;380.2333;380.23;380.24
+947;C24H32N2O2;4-Methoxybutyrfentanyl;"(EWA; Other substances)";x;;;381.2537;381.25;381.26
+911;C22H24ClN3O;N-(1-benzylpyrrolidin-3-yl)-5-chloro-3-ethyl-1H-indole-2-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;382.1681;382.17;382.17
+891;C22H24FN3O2;ADB-FUBICA;"(EWA; Synthetic cannabinoids)";x;;;382.1925;382.19;382.19
+994;C27H27NO;JWH-370;"(EWA; Synthetic cannabinoids)";x;;;382.2165;382.21;382.22
+834;C22H23FN2O3;AMB-FUBICA;"(EWA; Synthetic cannabinoids)";x;;;383.1765;383.17;383.18
+890;C21H23FN4O2;ADB-FUBINACA (T. e 184);"(EWA; Synthetic cannabinoids)";x;;x;383.1878;383.19;383.19
+7;C26H26N2O;AM-1220 (T. e 63);"(EWA; Synthetic cannabinoids)";x;;x;383.2118;383.21;383.21
+951;C24H31FN2O;N-Adamantyl-1-fluoropentylindole-3-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;383.2493;383.25;383.25
+833;C21H22FN3O3;FUB-AMB (T.e 191);"(EWA; Synthetic cannabinoids)";x;;x;384.1718;384.17;384.17
+120;C27H29NO;JWH-213;"(EWA; Synthetic cannabinoids)";x;;;384.2322;384.23;384.23
+55;C27H29NO;JWH-182;"(EWA; Synthetic cannabinoids)";x;;;384.2322;384.23;384.23
+950;C23H30FN3O;5F-APINACA (7611746958055);"(EWA; Synthetic cannabinoids)";x;;x;384.2446;384.24;384.25
+1 044;C25H24N2O2;QUCHIC;"(EWA; Synthetic cannabinoids)";x;;;385.1911;385.19;385.19
+13;C25H24N2O2;JWH-200 (T.e 40);"(EWA; Synthetic cannabinoids)";x;;x;385.1911;385.19;385.19
+941;C23H29ClN2O;para-Chloroisobutyrfentanyl;"(EWA; Other substances)";x;;;385.2041;385.20;385.21
+874;C23H32N2O3;MDMB-CHMICA (7611746958062);"(EWA; Synthetic cannabinoids)";x;;x;385.2486;385.25;385.25
+401;C23H32N2O3;Zipeprol (7611746232001);;;;x;385.2486;385.25;385.25
+133;C26H24FNO;JWH-368;"(EWA; Synthetic cannabinoids)";x;;;386.1915;386.19;386.19
+132;C26H24FNO;JWH-307 (T.e 43);"(EWA; Synthetic cannabinoids)";x;;x;386.1915;386.19;386.19
+376;C22H27NO5;N-acetylnorlaudanosine;Heroin impurity;;x;;386.1962;386.19;386.20
+862;C22H31N3O3;MDMB-CHMINACA (T.e 172);"(EWA; Synthetic cannabinoids)";x;;x;386.2438;386.24;386.25
+579;C20H23ClN4O2;Clonitazene (7611746019008);;;;x;387.1582;387.16;387.16
+979;C22H30N2O2S;Sufentanil (7611746112006);;;;x;387.2101;387.21;387.21
+400;C22H30N2O4;MO-CHMINACA (T.e 192);"(EWA; Synthetic cannabinoids)";x;;x;387.2278;387.23;387.23
+141;C25H38O3;HU-210 (T.e 116);"(EWA; Synthetic cannabinoids)";x;;x;387.2894;387.29;387.29
+137;C25H38O3;HU-211;"(EWA; Synthetic cannabinoids)";x;;;387.2894;387.29;387.29
+754;C21H23ClFN3O;Flurazepam (7611746191001);;;;x;388.1586;388.16;388.16
+118;C26H26FNO;EAM-2201 (T.e 140);"(EWA; Synthetic cannabinoids)";x;;x;388.2071;388.21;388.21
+1;C22H31N2O4;NEiH;"(EWA; Synthetic cathinones)";x;;;388.2357;388.23;388.24
+721;C22H33N3O3;Barbexaclone (7611746168010);;;;x;388.2595;388.26;388.26
+672;C23H24N4O2;3-(5-Benzyl-1,3,4-oxadiazol-2-yl)-1-(2-morpholin-4-ylethyl)-1H-indole;"(EWA; Synthetic cannabinoids)";x;;;389.1972;389.20;389.20
+23;C21H28BrNO;UR-144 N-(5-bromopentyl);"(EWA; Synthetic cannabinoids)";x;;;390.1427;390.14;390.14
+27;C25H24ClNO;JWH-122 N-(5-chloropentyl);"(EWA; Synthetic cannabinoids)";x;;;390.1619;390.16;390.16
+34;C25H24FNO2;AM2201 4-methoxynaphtyl analog;"(EWA; Synthetic cannabinoids)";x;;;390.1864;390.18;390.19
+309;C24H23ClN2O;5C-NNE1;"(EWA; Synthetic cannabinoids)";x;;;391.1572;391.16;391.16
+790;C26H34N2O;AM-1248 azepane isomer;"(EWA; Synthetic cannabinoids)";x;;;391.2744;391.27;391.28
+789;C26H34N2O;AM-1248 (T. e 64);"(EWA; Synthetic cannabinoids)";x;;x;391.2744;391.27;391.28
+997;C28H25NO;Naphthalen-1-yl-(9-pentyl-9H-carbazol-3-yl)-methanone;"(EWA; Synthetic cannabinoids)";x;;;392.2009;392.20;392.20
+820;C21H30FN3O3;5F-EDMB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;392.2344;392.23;392.24
+596;C15H10BrClN4S;Brotizolam (7611746226000);;;;x;392.9571;392.96;392.96
+904;C20H26F2N4O2;5F-AB-FUPPYCA;"(EWA; Synthetic cannabinoids)";x;;;393.2097;393.21;393.21
+903;C20H26F2N4O2;5F-3,5-AB-PFUPPYCA;"(EWA; Synthetic cannabinoids)";x;;;393.2097;393.21;393.21
+666;C25H32N2O2;Racemoramide (7611746110002);;;;x;393.2537;393.25;393.26
+106;C25H32N2O2;Dextromoramide (7611746026006);;;;x;393.2537;393.25;393.26
+100;C25H32N2O2;Levomoramide (7611746060000);;;;x;393.2537;393.25;393.26
+846;C20H27NO7;Trimethoxycocaine (TRIM);Cocain impurity;;x;;394.1860;394.18;394.19
+858;C20H28ClN3O3;5Cl-MDMB-PINACA;"(EWA; Synthetic cannabinoids)";x;;;394.1892;394.19;394.19
+948;C24H31N3O2;Adamantyl-THPINACA;"(EWA; Synthetic cannabinoids)";x;;;394.2489;394.25;394.25
+146;C24H31N3O2;1P-ETH-LAD (T.e 213);"(EWA; Other substances)";x;;x;394.2489;394.25;394.25
+851;C24H30N2O3;Carfentanyl (7611746958161);;;;x;395.2329;395.23;395.23
+982;C26H18FNO2;FDU-PB-22;"(EWA; Synthetic cannabinoids)";x;;;396.1394;396.14;396.14
+492;C20H26ClNO5;C30-NBOMe;"(EWA; Phenethylamines)";x;;;396.1572;396.16;396.16
+887;C23H26FN3O2;PX-1;"(EWA; Synthetic cannabinoids)";x;;;396.2082;396.21;396.21
+1 040;C25H17FN2O2;FUB-PB-22 (T.e 141);"(EWA; Synthetic cannabinoids)";x;;x;397.1347;397.13;397.14
+857;C23H25FN2O3;MDMB-FUBICA;"(EWA; Synthetic cannabinoids)";x;;;397.1922;397.19;397.19
+886;C22H25FN4O2;5F-APP-PINACA;"(EWA; Synthetic cannabinoids)";x;;;397.2034;397.20;397.21
+580;C22H28N4O3;Etonitazene (7611746044000);;;;x;397.2234;397.22;397.23
+5;C27H28N2O;AM-1220 azepane isomer;"(EWA; Synthetic cannabinoids)";x;;;397.2274;397.23;397.23
+1 039;C24H16FN3O2;FUB-NPB-22;"(EWA; Synthetic cannabinoids)";x;;;398.1299;398.13;398.13
+1 060;C22H23NO6;N,3,6-Triacetylnormorphine;Heroin impurity;;x;;398.1598;398.16;398.16
+856;C22H24FN3O3;MDMB-FUBINACA;"(EWA; Synthetic cannabinoids)";x;;;398.1874;398.19;398.19
+810;C22H24FN3O3;EMB-FUBINACA;"(EWA; Synthetic cannabinoids)";x;;;398.1874;398.19;398.19
+1 108;C23H30N2O4;Mitragynine (7611746958154);;;;x;399.2278;399.23;399.23
+1 071;C23H30N2O4;Pholcodine (7611746103004);;;;x;399.2278;399.23;399.23
+105;C21H21NO7;Narcotoline;Heroin alkaloid;;x;;400.1391;400.14;400.14
+949;C23H30ClN3O;5C-AKB48;"(EWA; Synthetic cannabinoids)";x;;;400.2150;400.21;400.22
+935;C23H33N3OS;N-(2-Methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine;"(EWA; Synthetic cannabinoids)";x;;;400.2417;400.24;400.24
+114;C25H21ClN2O;URB447;"(EWA; Synthetic cannabinoids)";x;;;401.1415;401.14;401.14
+907;C22H29FN4O2;AB-CHMFUPPYCA;"(EWA; Synthetic cannabinoids)";x;;;401.2347;401.23;401.24
+143;C20H24BrN3O;2-Bromo-N,N-diethyllysergamide;"(EWA; Other substances)";x;;;402.1176;402.12;402.12
+879;C25H26FN3O;FUB-AKB48 (T.e 190);"(EWA; Synthetic cannabinoids)";x;;x;404.2133;404.21;404.22
+889;C25H29N3O2;APP-CHMICA;"(EWA; Synthetic cannabinoids)";x;;;404.2333;404.23;404.24
+1 085;C24H24N2O4;Nicocodine (7611746082002);;;;x;405.1809;405.18;405.18
+888;C24H28N4O2;APP-CHMINACA;"(EWA; Synthetic cannabinoids)";x;;;405.2285;405.23;405.23
+567;C27H36N2O;tetramethylcyclopropanefentanyl;"(EWA; Other substances)";x;;;405.2900;405.29;405.29
+1 083;C24H26N2O4;Nicodicodeine (7611746083009);;;;x;407.1965;407.19;407.20
+869;C25H32N2O3;MDMB-PCZCA (T.e 193);"(EWA; Synthetic cannabinoids)";x;;x;409.2486;409.25;409.25
+153;C28H24FNO;(9-(5-fluoropentyl)-9H-carbazol-3-yl)(naphthalen-1-yl)methanone;"(EWA; Synthetic cannabinoids)";x;;;410.1915;410.19;410.19
+716;C24H28ClN3O;Org 27569;"(EWA; Synthetic cannabinoids)";x;;;410.1994;410.20;410.20
+1 092;C25H33NO4;Etorphine (7611746045007);;;;x;412.2482;412.25;412.25
+912;C28H32N2O;3-phenylpropanoylfentanyl;"(EWA; Other substances)";x;;;413.2587;413.26;413.26
+437;C17H20INO3;25I-NBOH (T.e 153);"(EWA; Phenethylamines)";x;;x;414.0561;414.05;414.06
+107;C22H23NO7;Noscapine;Heroin alkaloid;;x;;414.1547;414.15;414.16
+1 091;C25H35NO4;Dihydroetorphine (7611746260004);;;;x;414.2639;414.26;414.27
+95;C22H26N2O4S;Diltiazem;Adulterant;;x;;415.1686;415.17;415.17
+1 109;C23H30N2O5;7-hydroxymitragynine (7611746958147);;;;x;415.2227;415.22;415.22
+112;C27H42O3;HU-308;"(EWA; Synthetic cannabinoids)";x;;;415.3207;415.32;415.32
+930;C17H19FINO2;25I-NBF (T.e 143);"(EWA; Phenethylamines)";x;;x;416.0517;416.05;416.05
+885;C24H21FN4O2;APP-FUBINACA;"(EWA; Synthetic cannabinoids)";x;;;417.1721;417.17;417.17
+976;C21H32N6O3;Alfentanil (7611746003007);;;;x;417.2609;417.26;417.26
+82;C20H20INO;AM-679;"(EWA; Synthetic cannabinoids)";x;;;418.0662;418.06;418.07
+116;C24H22BrNO;JWH-387;"(EWA; Synthetic cannabinoids)";x;;;420.0958;420.09;420.10
+24;C24H22BrNO;JWH-018 N-(5-bromopentyl);"(EWA; Synthetic cannabinoids)";x;;;420.0958;420.09;420.10
+157;C19H20ClN3O4S;(E)-4-chloro-N-(1-(4-nitrophenethyl)piperidin-2-ylidene)benzenesulfonamide;"(EWA; Other substances)";x;;;422.0936;422.09;422.10
+244;C28H28N2O2;Difenoxin (7611746031000);;;;x;425.2224;425.22;425.22
+160;C27H26N2O3;WIN 55, 212-2 (T.e 117);"(EWA; Synthetic cannabinoids)";x;;x;427.2016;427.20;427.20
+501;C18H22INO3;25I-NB4OMe;"(EWA; Phenethylamines)";x;;;428.0717;428.07;428.07
+913;C27H28N2O3;benzodioxole fentanyl;"(EWA; Other substances)";x;;;429.2173;429.22;429.22
+243;C27H34N4O;Piritramide (7611746105008);;;;x;431.2805;431.28;431.28
+570;C22H25NO8;Nornarceine;Heroin alkaloid;;x;;432.1653;432.16;432.17
+850;C23H28O8;Salvinorin A (7611746965428);;;;x;433.1857;433.18;433.19
+849;C23H28O8;Extract from Salvia divinorum plant (7611746271000);;;;x;433.1857;433.18;433.19
+865;C27H34N2O3;MDMB-CHMCZCA (T.e 194);"(EWA; Synthetic cannabinoids)";x;;x;435.2642;435.26;435.27
+33;C20H19FINO;AM-694 (T. e 45);"(EWA; Synthetic cannabinoids)";x;;x;436.0568;436.05;436.06
+956;C24H26N2O6;JTE-907;"(EWA; Synthetic cannabinoids)";x;;;439.1864;439.18;439.19
+955;C18H20INO4;2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(3,4-methylenedioxyphenyl)methyl]ethanamine;"(EWA; Phenethylamines)";x;;;442.0510;442.05;442.05
+954;C18H20INO4;25I-DMBD;"(EWA; Phenethylamines)";x;;;442.0510;442.05;442.05
+131;C26H24BrNO;JWH-307 (bromo);"(EWA; Synthetic cannabinoids)";x;;;446.1114;446.11;446.11
+730;C23H27NO8;Narceine;Heroin alkaloid;;x;;446.1809;446.18;446.18
+358;C28H37N3O2;1-(Cyclohexylmethyl)-2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-1H-benzimidazol-5-carboxamide;"(EWA; Synthetic cannabinoids)";x;;;448.2959;448.29;448.30
+26;C20H19ClINO;AM-694 (Chloro);"(EWA; Synthetic cannabinoids)";x;;;452.0273;452.03;452.03
+813;C30H32N2O2;Diphenoxylate (7611746038009);;;;x;453.2537;453.25;453.26
+1 093;C27H35NO5;Acetorphine (7611746000006);;;;x;454.2588;454.26;454.26
+81;C22H23IN2O;AM-2233 (T. e 66);"(EWA; Synthetic cannabinoids)";x;;x;459.0928;459.09;459.10
+97;C23H21ClN6O3;Loprazolam (7611746198000);;;;x;465.1436;465.14;465.15
+1 090;C29H41NO4;Buprenorphine (7611746017004);;;;x;468.3108;468.31;468.31
+679;C31H32N4O2;Bezitramide (7611746016007);;;;x;493.2598;493.26;493.26
+1 076;C29H25N3O5;Nicomorphine (7611746084006);;;;x;496.1867;496.18;496.19
+486;C26H30BrNO4;25B-N(BOMe)2;"(EWA; Phenethylamines)";x;;;500.1431;500.14;500.15
+80;C22H22IN3O3;AM-1241;"(EWA; Synthetic cannabinoids)";x;;;504.0779;504.08;504.08
+1 078;C38H51NO4;Myrophine (7611746081005);;;;x;586.3891;586.39;586.39
+798;C38H46N2O8;Beta-Truxilline;Cocain alkaloid;;x;;659.3327;659.33;659.34
+1 097;C60H81N9O18;Tetrabamate (7611746998358);;;;x;1 216.5772;1216.57;1216.58
