@@ -70,6 +70,7 @@ for (i in 1: length(groupelist)) {
 tempdata<-data2[which(data2$Groupe == groupelist[i]), ]         # On crée un data.frame temporaire qui extrait les pics du même groupe
 tempdata<-tempdata[order(-tempdata$Maximum.Abundance),]         # On classe du plus intense au moins intense
 data3[i,]<-tempdata[1,]                                         # On stock le pics le plus intense dans le data.frame data3
+data3[i,1]<-as.character(tempdata[1,1])                         # Si non le nom change en chiffre
 }
 # Fichier .csv final avec un seul peak par groupe (le plus intense)
 
