@@ -1,13 +1,15 @@
+samplename<-"20180713_All_Results"
+wd<-paste("C:/Users/nkummer1/switchdrive/MA/Vion/Data Treatment/R/",samplename, sep = "")
+setwd(wd)
 
 # Création data.frame, ouverture du fichier csv (avec en moins avant l'importation juste la colonne neutral masses  ((qui est pas toujours complète)))
-data1 <- data.frame(read.csv("20180713_All_Results.csv",sep=";"), headings=TRUE)
+filename<-paste(samplename,".csv", sep = "")
+data1 <- data.frame(read.csv(filename,sep=";"), headings=TRUE)
 data1<-data1[order(data1$Retention.time..min.),]      # Classement de la plus petite à la plus grande valeur (RT) ...
 data1<-as.data.frame(data1[,c(1:ncol(data1)-1)])      # et effacement de la dernière colonne "heading"
 
 
-
 #Regroupement des peacks proches (isotopes et autre petite peaks liés à un composé) + création d'un nouveau fichier avec une colonne pour faire des groupe
- 
 data2 <- as.data.frame(data1[,])                # On copie le data.frame e
 data2$Groupe <- 0                               # On ajout une colonne "Groupe" dans le data.frame
 column_groupe<-ncol(as.data.frame(data2))       # On crée la variable column_group, qui correspnd à la position de la colonne dans le sata.frame (dernière colonne)
@@ -56,7 +58,6 @@ for (i in 1:n){
 
 
 # Fichier .csv avec l'indication des groupes
-
 write.csv(data2, file = "data2.csv", row.names = FALSE)  # On enregiste un fichier appelé data2
 
 #Par groupe on ne garder que le peak le plus intense + création d'un nouveau fichier avec une colonne pour faire des groupe
@@ -77,6 +78,8 @@ data3[i,1]<-as.character(tempdata[1,1])                         # Si non le nom 
 write.csv(data3, file = "data3.csv", row.names = FALSE)
 
 # Recherche des m/z dans la base de données "20180803_Compounds_IJChem"
+
+setwd("C:/Users/nkummer1/switchdrive/MA/Vion/Data Treatment/R/Identification")
 database <- data.frame(read.csv("20180816_Compounds_IJChem.csv",sep=";"), headings=TRUE)
 data4 <- as.data.frame(data3)
 data4$Identifications<- "-"                       # On va utiliser la colonne "IIdentifications" (qui est vide) pour y mettre les id possible
@@ -103,5 +106,6 @@ for(i in 1:nrow(data4)){
     }
     }
 
+wd<-paste("C:/Users/nkummer1/switchdrive/MA/Vion/Data Treatment/R/",samplename, sep = "")
+setwd(wd)
 write.csv(data4, file = "data4.csv", row.names = FALSE)
-
