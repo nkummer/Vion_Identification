@@ -1,13 +1,13 @@
-samplename<-"20180713_All_Results"
+samplename<-"20180821_Demo"
+rawdata<-paste(samplename, ".csv", sep = "")
 wd<-paste("C:/Users/nkummer1/switchdrive/MA/Vion/Data Treatment/R/",samplename, sep = "")
 setwd(wd)
 
 # Création data.frame, ouverture du fichier csv (avec en moins avant l'importation juste la colonne neutral masses  ((qui est pas toujours complète)))
-filename<-paste(samplename,".csv", sep = "")
-data1 <- data.frame(read.csv(filename,sep=";"), headings=TRUE)
+
+data1 <- data.frame(read.csv(rawdata,skip=2,sep=";"), headings=TRUE) ## On enlève les deux première ligne
 data1<-data1[order(data1$Retention.time..min.),]      # Classement de la plus petite à la plus grande valeur (RT) ...
 data1<-as.data.frame(data1[,c(1:ncol(data1)-1)])      # et effacement de la dernière colonne "heading"
-
 
 #Regroupement des peacks proches (isotopes et autre petite peaks liés à un composé) + création d'un nouveau fichier avec une colonne pour faire des groupe
 data2 <- as.data.frame(data1[,])                # On copie le data.frame e
@@ -73,8 +73,8 @@ tempdata<-tempdata[order(-tempdata$Maximum.Abundance),]         # On classe du p
 data3[i,]<-tempdata[1,]                                         # On stock le pics le plus intense dans le data.frame data3
 data3[i,1]<-as.character(tempdata[1,1])                         # Si non le nom change en chiffre
 }
-# Fichier .csv final avec un seul peak par groupe (le plus intense)
 
+# Fichier .csv final avec un seul peak par groupe (le plus intense)
 write.csv(data3, file = "data3.csv", row.names = FALSE)
 
 # Recherche des m/z dans la base de données "20180803_Compounds_IJChem"
@@ -109,3 +109,4 @@ for(i in 1:nrow(data4)){
 wd<-paste("C:/Users/nkummer1/switchdrive/MA/Vion/Data Treatment/R/",samplename, sep = "")
 setwd(wd)
 write.csv(data4, file = "data4.csv", row.names = FALSE)
+
