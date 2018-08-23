@@ -1,8 +1,7 @@
 # Vion_Identification
 Peaks deconvolution &amp; identifications
 
-The input data are csv files from Progenesis (use for the alignement). The column called "Neutral mass (Da)" exported from Progenesis as to be deleted before running the code (otherwise it generate errors due to missing values). The files should contain at least the following column (export parameters from Progenesis). 
+The input CVSV document (C:\Users\nkummer1\switchdrive\MA\Vion\Data Treatment\R\20180821_Demo\20180821_Demo) is exported from Progenesis (use for the alignement). The following column have to be exported: Compound, m/z, Retention time (min), CCS (angstrom^2), Identifications, Maximum Abundance et Raw abundance. 
+Remarques: The column called "Neutral mass (Da)" exported from Progenesis as to be deleted before running the code (otherwise it generate errors due to missing values). 
 
-
-Compound	m.z	Charge	Retention.time..min.	Identifications	Maximum.Abundance		Samples....	
-
+Three files are created, Data2, data3 and data4. 
