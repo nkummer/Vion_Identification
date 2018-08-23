@@ -6,4 +6,4 @@ Remarques: The column called "Neutral mass (Da)" exported from Progenesis as to 
 
 Three files are created, Data2, data3 and data4. The document data4 will be use to creat heatmaps. 
 
-## TTo use the code, change the name of the CSV file in the beggining of the code. 
+## To use the code, change the name of the CSV file in the beggining of the code. 
